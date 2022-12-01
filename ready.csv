@@ -1,0 +1,817 @@
+,age,address,job,marital,education,default,balance,housing,loan,contact,day,month,duration,campaign,pdays,previous,poutcome,y,last name,first_Name,range_age,Month_number,categorizes_geo
+1,33,"3887ratkemeadows\nnorthleannaton,vi94092-4948",services,married,secondary,False,4789,True,True,cellular,11,may,220,1,339,4,failure,False,swift,domenico,3,5,nan
+2,35,"056 pfannerstill cape st.\neast marta, nj 21058",management,single,tertiary,False,1350,True,False,cellular,16,apr,185,1,330,1,failure,False,gulgowski,talon,3,4,nan
+5,35,"3547 treutel crossing apt. 567\nreillytown, as 77039-3937",management,single,tertiary,False,747,False,False,cellular,23,feb,141,2,176,3,failure,False,effertz,richmond,3,2,nan
+6,36,"177corneliuscampapt.478\nnikolausbury,aa16457-1154",self-employed,married,tertiary,False,307,True,False,cellular,14,may,341,1,330,2,other,False,mcclure,lauren,3,5,nan
+9,43,"03353corkeryprairie\nwestlonnie,ar87918-1164",services,married,primary,False,-88,True,True,cellular,17,apr,313,1,147,2,failure,False,willms,justina,4,4,nan
+14,31,"0036 0'r3illy gr0v3s apt. 281\npark3rvill3, va 86050-0641",blue-collar,married,secondary,False,360,True,True,cellular,29,jan,89,1,241,1,failure,False,witting,donavon,3,1,nan
+17,37,"84007 k3agan cr0ssing\nn3w j0rdynm0uth, wi 12784",admin.,single,tertiary,False,2317,True,False,cellular,20,apr,114,1,152,2,failure,False,boyer,therese,3,4,nan
+19,31,"52473rn3stinaclubav3.\n3astj0nathanburgh,va41037-0979",services,married,secondary,False,132,False,False,cellular,7,jul,148,1,152,1,other,False,oberbrunner,adalberto,3,7,nan
+27,67,"649bogisichdrivesst.\nmelodyview,aa86254-5642",retired,married,unknown,False,696,False,False,telephone,17,aug,119,1,105,2,failure,False,denesik,ansel,6,8,nan
+38,33,"61573hesselglen\nkerlukehaven,mo78369-8019",management,married,secondary,False,3935,True,False,cellular,6,may,765,1,342,2,failure,True,thiel,eulah,3,5,nan
+40,38,"7575 p0llich fi3ld av3.\nlak3 shani3land, ga 48064-0663",management,single,tertiary,False,11971,True,False,unknown,17,nov,609,2,101,3,failure,False,hickle,philip,3,11,nan
+46,55,"7822 w3b3r stati0n \nw3st maryjan3b3rg, sd 78054",blue-collar,married,primary,False,145,False,False,telephone,2,feb,59,3,5,2,other,False,thompson,isabella,5,2,nan
+49,61,"381 murazik unions apt. 114\nstrosinton, fm 05678",admin.,married,unknown,False,4629,True,False,cellular,27,jan,181,1,92,1,success,True,lockman,felton,6,1,nan
+53,34,"603 geovany club \nwest chad, nj 94040-2180",technician,married,tertiary,False,1539,True,False,cellular,15,jun,441,1,56,1,other,True,boehm,amely,3,6,nan
+65,51,"39792 dereck dam\nnorth evie, ri 78890",blue-collar,divorced,secondary,False,203,True,False,cellular,8,may,134,1,170,5,failure,False,rowe,prudence,5,5,nan
+70,37,"0170 mohr parks ave.\nconnellytown, ky 29076-5325",management,married,tertiary,False,0,False,False,cellular,16,jul,268,2,182,3,success,True,franecki,misael,3,7,nan
+76,41,"985 zelda bridge apt. 181\nsipesmouth, pr 14631",blue-collar,divorced,secondary,False,174,True,False,cellular,14,may,367,2,297,1,other,False,friesen,roma,4,5,nan
+79,40,"23563 williams0n plains\nlak3 kal3shir3, ny 52332",unemployed,married,secondary,False,219,True,False,cellular,17,nov,204,2,196,1,failure,False,russel,kole,4,11,flat
+83,52,"9329leuschkeharborave.\nsouthgiuseppe,mi01799",services,married,secondary,False,657,False,False,telephone,7,jul,398,2,460,2,failure,True,kuvalis,verlie,5,7,nan
+97,30,"9804 crona lock suite 555\nporterstad, oh 74434-0051",admin.,single,tertiary,False,261,False,False,cellular,19,oct,233,1,137,20,failure,False,dicki,polly,3,10,nan
+98,36,"5835 davis fall apt. 454\nnew laurel, mn 50972-9205",blue-collar,divorced,secondary,False,2843,False,False,cellular,12,feb,473,1,182,1,success,False,douglas,maximo,3,2,nan
+101,38,"717 andres manors \nlake griffin, nh 22488-4768",management,single,tertiary,False,493,True,False,cellular,11,may,553,1,367,7,failure,False,bayer,alanna,3,5,water
+105,32,"41399 lu3ttg3n missi0n\np0rt guadalup3, ga 83777-4095",management,single,tertiary,False,574,True,False,cellular,14,apr,259,2,145,3,failure,False,bailey,chesley,3,4,nan
+110,21,"336cummeratasummitst.\ntrantowmouth,oh30723",student,single,secondary,False,2488,False,False,cellular,30,jun,258,6,169,3,success,True,klein,dane,2,6,nan
+113,33,"4532 beulah junctions apt. 735\neast raphaelville, ma 10842",blue-collar,single,secondary,False,22,False,False,cellular,30,jan,76,2,207,1,failure,False,hoeger,ellen,3,1,nan
+124,51,"545jav0nt3cr0ssr0adst.\nn3wsinc3r3hav3n,wy47651",management,single,tertiary,True,-55,True,False,cellular,11,may,281,2,266,6,failure,False,nolan,elyssa,5,5,nan
+128,32,"1274brycenglens\nwestkatarina,co31104-3663",blue-collar,single,secondary,False,228,False,False,telephone,5,feb,176,1,288,3,failure,False,lueilwitz,nathaniel,3,2,nan
+133,48,"6812 gayl0rd isl3 av3.\ns0uth macishir3, pw 39839",admin.,married,unknown,False,0,True,False,cellular,8,may,85,1,168,2,failure,False,cruickshank,jaquan,4,5,nan
+136,29,"602jaidenloafst.\nnorthmuhammadfurt,az45534-7818",admin.,single,secondary,False,428,True,True,cellular,7,may,54,1,345,2,failure,False,zieme,amira,2,5,nan
+148,46,"9157 z03y bridg3 av3.\nkirlinshir3, fm 41569",admin.,married,secondary,False,179,True,False,cellular,29,jan,194,4,436,1,other,False,gusikowski,gladys,4,1,nan
+156,55,"1059 anahi divide ave.\neast timothystad, id 41715",admin.,married,secondary,False,602,False,False,cellular,1,jun,324,3,90,2,success,True,brekke,junior,5,6,nan
+157,55,"846 rayn0r gr33ns \nj3rr3llbury, a3 14092-6324",technician,married,secondary,False,273,True,False,cellular,29,jan,84,3,183,3,failure,False,glover,abagail,5,1,nan
+164,28,"809padbergstationsuite328\nwestloma,ks46670",management,single,tertiary,False,80,False,False,cellular,20,oct,676,2,146,2,failure,True,dibbert,bobby,2,10,nan
+172,40,"537blocklockst.\nseanborough,ky87688-4689",admin.,single,secondary,False,462,True,True,cellular,6,apr,272,1,335,4,other,False,cole,osbaldo,4,4,nan
+177,37,"3701shanylandingave.\nshermanland,ms38569-8882",admin.,married,secondary,False,176,True,False,cellular,5,may,147,2,347,1,failure,False,shanahan,ericka,3,5,nan
+179,37,"80194feilsummit\nsouthgreenborough,ar98444-0316",admin.,married,tertiary,False,0,True,False,cellular,17,nov,65,2,119,1,failure,False,mills,gia,3,11,nan
+186,34,"8474gottliebstravenueave.\nnorthlondonmouth,ky78295-1784",admin.,married,tertiary,False,899,True,False,telephone,19,nov,377,3,7,4,success,False,vonrueden,niko,3,11,nan
+187,37,"43398 graham m0unt\ns0uth b3rni3c3, fm 82645",services,single,secondary,False,21,True,False,cellular,2,feb,96,1,271,2,other,False,berge,kelsi,3,2,nan
+188,36,"985 alvah mills suite 784\nsanfordville, tx 52683",technician,married,secondary,False,23,True,False,cellular,8,may,152,2,347,1,failure,False,glover,deven,3,5,nan
+199,75,"827raynorlakesst.\nkuvalisport,ma59210",retired,married,secondary,False,3771,False,False,telephone,15,apr,185,1,181,2,success,True,bernier,elyssa,7,4,water
+200,34,"716 schowalter hill st.\nturnermouth, ks 60089-9057",technician,single,tertiary,False,992,True,False,cellular,4,may,301,1,88,2,success,False,dooley,cornell,3,5,relief
+202,35,"19213nad3rr0ads\ns0uthsv3np0rt,fm76399",technician,single,tertiary,False,2658,True,False,cellular,19,aug,768,2,141,3,failure,True,hand,jaunita,3,8,nan
+203,39,"2559 hettinger lodge \nnew jessika, me 97893-5684",management,divorced,tertiary,False,1315,True,False,cellular,19,nov,1337,4,126,1,failure,False,wisozk,madeline,3,11,nan
+207,29,"70203vallielight\nsouthkyleigh,ae93734",technician,married,secondary,False,1599,True,False,cellular,8,jul,115,1,61,1,failure,False,ernser,maxwell,2,7,nan
+208,38,"87616 edythe lodge\nnorth myrtlebury, nh 71643",services,single,secondary,False,-196,True,False,cellular,2,feb,60,1,271,1,failure,False,renner,friedrich,3,2,nan
+212,38,"727maxwelldamsuite729\nwestminervaport,nc54786",technician,married,tertiary,False,432,True,False,cellular,15,may,10,2,373,1,other,False,schulist,elna,3,5,nan
+217,30,"4569 rey burgs suite 711\nheberburgh, fl 05937",blue-collar,married,secondary,False,975,True,False,cellular,13,may,256,2,351,2,failure,False,kohler,judd,3,5,nan
+227,33,"508walterradialapt.853\nportcristalton,ri83235",technician,married,secondary,False,359,True,False,cellular,20,apr,210,1,242,1,other,False,jacobi,marta,3,4,nan
+229,35,"051 gulgowski mission apt. 259\nbeckerfurt, ap 60014-0420",technician,married,tertiary,False,0,True,True,cellular,23,sep,112,1,62,6,other,False,goyette,isaiah,3,9,nan
+232,44,"6587 devonte fork apt. 258\nfurmanfort, wy 97409-8239",technician,single,secondary,False,33,True,False,cellular,13,may,195,3,351,10,failure,False,roberts,wellington,4,5,nan
+233,45,"607 glover ridge st.\nsouth rigoberto, al 05038-1192",blue-collar,single,secondary,False,0,True,False,cellular,26,jul,768,2,91,5,success,False,johnson,dixie,4,7,nan
+236,33,"327calliecauseway\nsouthterrance,nm85287",blue-collar,married,secondary,False,3576,True,False,cellular,2,apr,124,1,308,2,other,False,haley,howell,3,4,nan
+245,36,"497 hailey flats st.\ndayanaton, ia 27202",management,married,tertiary,False,0,True,False,cellular,28,jan,60,1,250,1,other,False,pollich,antonia,3,1,nan
+249,43,"191 alford brooks st.\nport jeffrey, va 10347-6318",technician,married,secondary,False,0,False,True,cellular,8,may,9,2,172,5,failure,False,heller,domingo,4,5,nan
+253,58,"9773hettingerkeyapt.477\nsouthlilyantown,nd29730-7282",retired,married,primary,False,3401,True,False,cellular,3,feb,84,3,265,2,failure,False,greenfelder,zander,5,2,nan
+264,58,"7796lizzieviewsave.\nkirlinchester,il49805",technician,married,tertiary,False,883,False,False,cellular,18,aug,543,1,78,2,failure,False,schneider,weldon,5,8,nan
+270,40,"4195parkergardensave.\ntyreeshire,hi62179-0739",services,married,secondary,False,0,True,False,cellular,2,jun,297,1,28,3,failure,False,reynolds,lizzie,4,6,nan
+276,35,"6810 gl3ichn3r 3stat3s \nmarvinf0rt, az 48169",housemaid,married,tertiary,False,11219,False,False,cellular,12,aug,699,2,79,1,failure,False,kunde,alyson,3,8,nan
+289,34,"3636 terrence manors \nnorth madisyn, mo 09845-0182",admin.,married,tertiary,False,69,False,True,cellular,4,aug,120,3,1,6,success,True,ferry,helmer,3,8,nan
+301,65,"01947 j0hnny passag3\nw3st tyr3s3, la 18461-9906",retired,divorced,primary,False,1840,False,False,cellular,1,jun,383,2,188,5,failure,False,dare,armando,6,6,nan
+310,49,"6978langworthtrailave.\nrachelview,ct49007",blue-collar,married,secondary,False,8545,True,True,cellular,6,may,199,7,167,1,failure,False,schowalter,garnett,4,5,nan
+314,25,"7044 l0is pin3 apt. 692\nj3ff3rych3st3r, az 39073",admin.,single,tertiary,False,760,True,False,cellular,27,may,223,3,89,2,failure,True,weber,christian,2,5,nan
+318,35,"0293 cheyanne tunnel ave.\nwest dominic, az 70180",entrepreneur,married,secondary,False,2971,False,False,cellular,4,may,429,4,164,2,failure,True,stracke,valentin,3,5,nan
+323,38,"9064sau3rlightav3.\nw3stl3yvill3,d392256-8550",management,married,tertiary,False,1199,False,False,cellular,4,aug,178,1,1,1,success,True,murazik,avery,3,8,nan
+325,33,"55626 florida cliff\nport llewellynstad, co 17997",technician,married,secondary,False,6699,False,False,cellular,9,nov,425,1,462,1,failure,False,bailey,elwin,3,11,nan
+328,35,"12633unavistasuit3045\nw3strahulp0rt,mp49839",unemployed,married,secondary,False,978,False,False,cellular,29,dec,1370,3,209,3,success,True,goldner,rebecca,3,12,nan
+331,29,"1388 gaylord isle ave.\njerdeberg, ri 58872-7647",technician,single,tertiary,False,828,True,False,cellular,16,apr,215,3,321,3,other,False,o'keefe,trevion,2,4,nan
+337,33,"035alanapike\naiyanaburgh,as09133",management,single,tertiary,False,1410,True,False,cellular,5,feb,8,1,254,5,failure,False,renner,bradford,3,2,nan
+338,63,"862weissnatharborsst.\nportbrendenville,me40155",retired,married,primary,False,1084,False,False,cellular,14,oct,201,1,183,1,success,False,rodriguez,guy,6,10,nan
+340,41,"82341 zieme stravenue\nnorth damientown, nh 22025-5112",management,married,tertiary,False,832,True,True,cellular,21,nov,164,1,176,1,failure,False,franecki,ignacio,4,11,nan
+345,36,"4378kohlerpointave.\ngerholdland,fm30454-9013",blue-collar,single,secondary,False,219,True,True,cellular,11,may,270,2,347,1,failure,False,gorczany,tobin,3,5,nan
+347,55,"152 dudley manor st.\nconnhaven, nd 51136",management,married,primary,False,2587,False,False,cellular,4,sep,328,2,94,2,success,True,mitchell,bethany,5,9,nan
+349,47,"0933 marcellus ridge ave.\nnorth berry, ca 32891",self-employed,married,tertiary,False,2303,True,False,cellular,6,may,323,2,364,1,failure,False,skiles,delbert,4,5,nan
+353,50,"71580 bailey flat\nweimannberg, id 31648-0974",management,married,tertiary,False,4,False,False,cellular,17,nov,223,1,96,2,failure,False,gislason,elwin,5,11,nan
+354,29,"824 alene ford suite 640\nmayertmouth, mh 34654",management,married,tertiary,False,318,True,False,cellular,18,may,1434,2,356,4,failure,False,bradtke,mateo,2,5,nan
+367,32,"86826 r0lfs0n c0urs3\nw3st wil3ym0uth, pw 97270",management,single,tertiary,False,8436,True,False,cellular,17,apr,245,1,149,2,failure,False,green,maiya,3,4,nan
+369,30,"1654 jacky drive \ntalonhaven, tn 63438-5379",entrepreneur,married,secondary,False,946,True,False,cellular,19,nov,1065,1,183,1,other,False,farrell,evan,3,11,nan
+374,42,"303 gottlieb plaza st.\nwest nathanael, as 86154",admin.,married,secondary,False,-396,True,False,cellular,11,may,80,1,308,4,failure,False,green,callie,4,5,nan
+375,30,"737sawaynforkst.\nportzoey,nm18516-7284",services,single,secondary,False,0,True,False,cellular,18,may,131,6,363,9,failure,False,runolfsdottir,christiana,3,5,nan
+377,37,"5507 dejuan mountain ave.\nfeliciaside, ak 47158",management,married,tertiary,False,393,True,False,cellular,14,may,567,3,275,4,failure,True,wisoky,carmela,3,5,nan
+380,39,"75306 sterling isle\nstaceyland, ri 02213-3936",blue-collar,married,secondary,False,0,True,False,cellular,30,apr,53,1,325,1,failure,False,kertzmann,jayne,3,4,nan
+383,37,"4004mclaughlinparksav3.\n3n0sb3rg,il55799",services,married,secondary,False,1328,True,False,telephone,13,may,121,2,341,4,failure,False,hoeger,autumn,3,5,nan
+390,33,"188 m3dhurst rapid \nw3st amarif0rt, m3 97698",management,single,tertiary,False,1240,True,False,cellular,4,feb,505,2,260,1,other,False,hirthe,britney,3,2,nan
+394,33,"510dar3circl3sapt.664\nw3stcarm3llach3st3r,mh50366-0405",blue-collar,married,secondary,False,43,True,False,cellular,14,may,332,2,358,2,failure,False,swift,kira,3,5,nan
+397,37,"334 willis trafficway \nnew cayla, ky 53835",technician,single,tertiary,False,6101,False,False,cellular,4,may,60,5,87,1,success,False,schiller,vada,3,5,nan
+408,44,"6654 ortiz glen ave.\nadrainchester, ap 10683-7728",management,married,secondary,False,438,True,False,telephone,8,may,37,3,303,1,failure,False,bogan,chase,4,5,nan
+409,54,"0847 imogene freeway ave.\nnorth amiraport, ar 53975",admin.,married,secondary,False,0,False,False,cellular,28,jan,161,1,98,2,failure,True,koss,maud,5,1,nan
+412,75,"2346 dayne landing \ndickinsonbury, aa 81266-4462",retired,divorced,tertiary,False,3810,True,False,cellular,16,nov,262,1,183,1,failure,True,monahan,nikki,7,11,nan
+421,37,"749 ophelia unions st.\nkaileyside, nv 46187-3639",management,married,tertiary,False,502,True,False,cellular,7,may,551,1,351,1,failure,False,howe,shawn,3,5,nan
+423,37,"3623 barry bridge \nwinonaborough, ga 64781-0714",management,single,tertiary,False,876,True,False,cellular,15,apr,140,4,327,2,failure,False,balistreri,fernando,3,4,nan
+433,43,"4537 nella drive \nzboncakmouth, co 98176-9749",blue-collar,married,secondary,False,130,False,False,cellular,5,may,156,1,337,3,failure,False,bergnaum,katelyn,4,5,nan
+437,27,"1580'k33f3bypassst.\nn0rthj3rr0dvill3,pa45023",admin.,single,secondary,False,619,True,False,cellular,20,apr,16,5,322,4,other,False,frami,alden,2,4,nan
+459,43,"6237 jada freeway apt. 472\nhuelfurt, mi 12358-7807",management,divorced,tertiary,False,36,False,False,cellular,26,may,118,1,102,2,failure,False,turner,kirstin,4,5,nan
+464,32,"783 al3x und3rpass suit3 430\nr0drigu3zf0rt, c0 40446",blue-collar,married,secondary,False,889,True,False,cellular,10,sep,185,1,99,5,success,True,padberg,elmira,3,9,nan
+465,59,"351 zechariah route st.\nwest lilian, mo 06524",housemaid,married,secondary,False,0,False,False,telephone,3,feb,722,1,99,4,failure,False,collier,magdalen,5,2,nan
+477,77,"064 jenifer hills apt. 691\nwilmafurt, wv 44131-4905",retired,married,tertiary,False,7802,False,False,telephone,4,may,421,1,92,2,success,True,smith,vince,7,5,relief
+482,40,"39793 o'reilly roads\nlake armand, il 27864",technician,married,secondary,False,694,True,False,cellular,4,feb,97,4,196,5,failure,False,parker,giovanny,4,2,water
+492,53,"6422keelingpassagesuite155\nbartonport,wv19557-6601",admin.,married,secondary,False,1796,False,False,telephone,16,mar,295,1,91,2,success,True,ledner,adonis,5,3,nan
+496,50,"48251jam3yw3ll\npac0chab3rg,id36618",housemaid,married,secondary,False,7317,True,False,cellular,13,may,172,1,370,1,failure,False,bogisich,amalia,5,5,nan
+500,32,"95289 welch river\nkurtisland, hi 57529-8854",management,single,tertiary,False,12607,False,False,cellular,14,aug,203,5,84,1,failure,False,goyette,josie,3,8,nan
+510,38,"7319 eldridge plains suite 980\nlake angelobury, mo 02555-3390",blue-collar,married,secondary,False,121,True,True,cellular,6,feb,168,1,212,2,failure,False,block,violette,3,2,water
+512,52,"84268 amira path\nsouth steveberg, hi 75159-8489",technician,married,secondary,False,195,True,False,cellular,18,feb,220,1,63,5,failure,True,brakus,kirstin,5,2,nan
+515,45,"8983wisozkvistaave.\nlurlineside,nv67619",unemployed,divorced,primary,False,757,False,False,cellular,20,apr,103,1,325,4,failure,False,parisian,eloy,4,4,nan
+518,34,"2138abshirelocksave.\nlakeallenestad,ut22403",management,married,tertiary,False,902,True,False,cellular,14,may,159,1,367,2,other,False,cassin,sandy,3,5,water
+519,61,"964 marvin shoals st.\nschmelerberg, mo 76921",retired,married,secondary,False,5207,False,False,cellular,11,sep,336,1,81,2,other,False,gibson,haven,6,9,nan
+522,43,"91350 letha lodge\nsouth stella, mo 20216",admin.,divorced,secondary,False,738,True,False,cellular,21,nov,585,4,191,4,failure,False,kunde,garrick,4,11,nan
+528,43,"16466alessandroland\nlakeconsuelo,hi92810-2492",services,married,primary,False,2567,True,False,cellular,14,may,109,1,360,2,failure,False,gutmann,jaron,4,5,water
+540,47,"7641hesselfordapt.869\nkertzmannberg,ri37955",admin.,single,secondary,False,3696,False,False,cellular,12,jul,250,2,181,4,success,True,pfannerstill,jewell,4,7,nan
+551,34,"031 ziemann hill suite 828\nwest mandy, mp 47648-4542",technician,married,secondary,False,-228,True,False,cellular,20,apr,187,3,332,3,other,False,torp,valentine,3,4,relief
+552,63,"219 shaniya springs st.\nj0hnst0nt0wn, md 75701-3972",retired,married,secondary,False,2747,False,False,cellular,11,sep,113,1,80,1,failure,False,pouros,buddy,6,9,nan
+555,37,"501 j0an island apt. 889\nari3lp0rt, nc 50913-4997",admin.,married,secondary,False,1314,True,False,cellular,8,may,682,2,85,7,success,False,zulauf,alyson,3,5,nan
+563,50,"9198 minni3 0rchard apt. 206\nn3w d3v0nt3, a3 77030-3754",technician,married,secondary,False,2497,True,False,cellular,21,nov,35,1,176,1,failure,False,wilderman,sheldon,5,11,nan
+565,40,"369hagenesviewst.\neastbenmouth,la35492",technician,married,secondary,False,56,True,True,cellular,29,jan,194,1,247,1,failure,False,kunze,nicholas,4,1,nan
+572,53,"361 ericka hills st.\nnew zechariah, ok 18316",management,married,tertiary,False,1319,True,False,cellular,16,apr,427,1,150,1,failure,False,ledner,tierra,5,4,relief
+578,49,"18372janetcourts\nyasminmouth,sc77560-7783",blue-collar,married,secondary,False,171,False,False,cellular,4,feb,19,3,175,2,other,False,hilpert,salma,4,2,nan
+579,33,"765 vladimir ways suite 474\nsouth chloeton, mt 12200",technician,single,tertiary,False,696,False,True,cellular,5,feb,193,1,176,8,failure,False,romaguera,lela,3,2,nan
+596,47,"56907 schm3l3r 0rchard\nn3w th3r3s3, va 07681-0066",housemaid,married,primary,False,201,True,False,cellular,7,aug,58,2,382,1,failure,False,doyle,creola,4,8,nan
+598,60,"5174hesselgardensave.\nnewbuster,nm01885",retired,divorced,unknown,False,-49,True,False,cellular,29,jan,188,1,261,2,failure,False,oberbrunner,patsy,6,1,nan
+602,50,"465nad3rhillsst.\nr0salindavi3w,0h81048",blue-collar,married,primary,False,12519,True,False,cellular,17,apr,146,2,147,4,success,False,waters,nina,5,4,relief
+614,39,"76959 koepp flat\nshieldsfort, hi 21848",technician,married,tertiary,False,1161,True,False,cellular,9,apr,236,1,336,1,failure,False,franecki,moshe,3,4,nan
+619,35,"183 weber plaza apt. 336\nnew mistyfurt, pr 19282-3276",technician,married,tertiary,False,7050,False,False,cellular,11,aug,222,3,182,4,success,True,schuster,jayde,3,8,nan
+623,40,"027 hartmann trace st.\neast carmelo, fl 48390",management,single,tertiary,False,1509,False,False,cellular,12,may,333,1,58,3,failure,False,goodwin,garry,4,5,nan
+629,59,"3242 cristobal lodge suite 259\narlieshire, mi 32711-6784",management,married,tertiary,False,2764,False,False,cellular,24,dec,237,1,206,2,failure,False,boyer,geovanny,5,12,nan
+631,33,"857 henderson extensions st.\nnorth patience, ct 35317-2411",technician,married,tertiary,False,8023,False,False,cellular,30,nov,107,1,105,3,failure,False,ullrich,mariela,3,11,nan
+647,46,"236 jenkins forest st.\nnorth fanniefurt, ne 28011-3470",management,divorced,tertiary,False,6269,True,False,telephone,18,nov,249,3,112,2,failure,False,mohr,cooper,4,11,nan
+649,60,"9588margar3ttav3nu3av3.\nn3wcarmin3hav3n,mh48761-6566",management,married,primary,False,252,True,True,cellular,13,apr,123,2,147,3,failure,False,cassin,ben,6,4,nan
+650,33,"12572 k3ssl3r prairi3\nvirgi3p0rt, a3 66561-0992",housemaid,single,tertiary,False,23663,True,False,cellular,16,apr,199,2,146,2,failure,False,nienow,erna,3,4,nan
+651,27,"9860kylecourtave.\nportmittieshire,as40507",entrepreneur,single,tertiary,False,81,False,False,cellular,5,feb,197,1,199,3,failure,False,ziemann,emily,2,2,nan
+657,64,"729 treutel neck st.\nmosciskiland, ap 61303-8099",retired,married,primary,False,43,False,False,cellular,11,mar,117,1,91,1,success,False,o'reilly,giuseppe,6,3,nan
+658,47,"532leonelrue\ndylanside,vt99268",technician,married,secondary,False,57,False,False,cellular,5,may,253,1,342,1,success,False,kris,juwan,4,5,nan
+660,36,"6188 wehner roads apt. 920\nport oralmouth, ri 59646-8825",technician,divorced,secondary,False,666,True,True,cellular,3,apr,190,1,133,1,other,False,mills,dorian,3,4,nan
+663,53,"225 keeling station st.\nwest victortown, hi 10589-3563",entrepreneur,married,primary,False,1034,True,False,cellular,19,nov,854,2,170,3,other,False,hyatt,serena,5,11,nan
+665,54,"6684 kassandra c0urt apt. 940\nbradyt0wn, ri 81806",technician,married,secondary,False,0,False,False,telephone,16,nov,986,1,94,8,failure,False,koch,isabelle,5,11,nan
+667,55,"2069 collins courts \ncummingsbury, la 99915-0359",management,married,primary,False,621,False,True,cellular,2,feb,114,1,208,1,failure,False,kirlin,danika,5,2,nan
+671,44,"197madisonmissionst.\nnorthjoesph,mo64501-0972",technician,married,secondary,False,310,True,False,cellular,6,feb,200,1,253,1,failure,False,mckenzie,kevon,4,2,nan
+672,32,"375 purdy walk st.\nbradlyport, mn 53300-7703",entrepreneur,married,unknown,False,73,True,False,cellular,21,nov,158,1,135,1,failure,False,wiegand,will,3,11,nan
+675,37,"217 izaiah fi3lds apt. 796\ns0uth mari0p0rt, nd 46754-7969",technician,married,secondary,False,64,True,False,cellular,12,may,239,4,278,2,other,False,towne,wilson,3,5,nan
+684,28,"4941k03pppin3av3.\nlak3craig,mp97506",services,single,secondary,False,168,False,False,cellular,1,jun,347,3,140,2,success,True,rempel,elliott,2,6,nan
+685,46,"3627jeffryvilleave.\nmcclureview,as31128-4563",services,married,secondary,False,1550,True,False,cellular,16,apr,126,2,149,8,failure,False,jacobson,delores,4,4,nan
+699,35,"1494 murphy p0rt av3.\nw3st ludi3stad, la 45035-3101",entrepreneur,married,tertiary,False,0,False,False,cellular,5,may,74,1,168,4,failure,False,mayert,lydia,3,5,nan
+713,25,"298 r00s3v3lt parkway st.\np0rt katrin3, wv 06393",student,single,secondary,False,1790,False,False,cellular,17,apr,224,1,322,3,failure,False,nicolas,ransom,2,4,nan
+718,40,"200 skiles spur \nsouth lorenzo, tx 50067",blue-collar,married,secondary,False,498,True,False,cellular,8,may,55,2,298,4,failure,False,schumm,forest,4,5,nan
+724,26,"27875 tristian lodge\nnew alexandramouth, ut 78924",technician,single,secondary,False,455,False,False,cellular,29,jan,240,1,182,8,other,False,walter,deion,2,1,nan
+725,31,"6502 allene meadows apt. 276\nsouth roxane, al 36501",management,married,tertiary,False,1010,True,False,cellular,15,may,385,3,364,9,other,False,shanahan,corrine,3,5,nan
+731,48,"7403 amadi park ave.\nkelvinfort, pr 50295",blue-collar,married,primary,False,1092,False,True,cellular,18,nov,79,1,172,8,failure,False,carroll,shana,4,11,nan
+738,36,"6044 carl33 m0unt \ns0uth jac3bury, in 10372",technician,single,secondary,False,1855,True,False,cellular,4,feb,75,1,273,1,failure,False,keeling,amadi,3,2,nan
+742,46,"38744 kreiger vista\nshanahantown, ut 34820-6485",services,married,secondary,False,0,True,False,cellular,22,jun,154,1,124,1,other,False,kirlin,fern,4,6,nan
+764,28,"63737 c3cilia n3ck\nn3w dallasb0r0ugh, nv 00524",services,married,secondary,False,0,True,False,cellular,5,may,335,2,281,8,failure,False,toy,mollie,2,5,nan
+765,37,"29603 stanton river\nschimmelhaven, fl 42341-3311",management,divorced,secondary,False,414,False,False,cellular,29,jan,293,2,162,4,failure,False,kihn,larry,3,1,nan
+769,52,"5933 rosie pines ave.\nmertieland, pw 88005",management,married,tertiary,False,1944,True,False,cellular,15,apr,238,3,323,2,failure,False,hilll,savanah,5,4,nan
+776,28,"331 lueilwitz wells st.\nwest barney, nc 21444",technician,single,secondary,False,3,False,False,telephone,18,may,40,8,349,6,failure,False,wintheiser,betsy,2,5,nan
+798,34,"01698 rapha3l lights\nn3w k3ll3yhav3n, ks 64247",student,single,unknown,False,1281,False,False,cellular,25,aug,279,1,117,1,failure,False,walker,willard,3,8,nan
+800,50,"117 jacynth3 pass \n3ast micha3lab0r0ugh, sd 40389",management,married,tertiary,False,2881,False,False,cellular,5,aug,510,2,2,5,other,False,lang,jed,5,8,nan
+801,30,"4543 gertrude tunnel ave.\nport destinmouth, md 49985",blue-collar,single,secondary,False,445,True,False,cellular,16,apr,218,1,330,2,failure,False,carroll,marlene,3,4,nan
+802,40,"55013 zi3m3 highway\ns0uth barr3tt, md 33612",management,married,secondary,False,643,True,False,cellular,17,apr,74,2,256,1,failure,False,ziemann,sigrid,4,4,nan
+804,40,"9014h0m3nicklightsav3.\nn0rth0l3tastad,aa12141-4529",management,married,tertiary,False,-1212,True,False,cellular,15,may,1259,2,333,18,failure,False,reynolds,carole,4,5,nan
+805,41,"0038 m00r3 m0untains suit3 556\np0rt abby, m0 88099-1653",technician,married,secondary,False,2125,True,True,cellular,21,nov,285,3,116,4,failure,False,cummerata,ocie,4,11,nan
+808,32,"5325 dereck station apt. 592\nwest baron, ky 89641-9177",technician,single,secondary,False,271,True,False,cellular,13,may,80,2,268,2,other,False,willms,doris,3,5,nan
+814,47,"2091 lowell road ave.\nwest oral, dc 18135-7823",technician,married,secondary,False,-75,True,False,cellular,4,feb,57,1,247,1,other,False,lubowitz,wilmer,4,2,nan
+819,27,"21107 k3rluk3 3xpr3ssway\n3ast maryjan3, ap 12588",services,married,secondary,False,58,True,False,cellular,7,may,113,1,337,2,other,False,mante,bernice,2,5,nan
+821,31,"56961 d0yl3 3xt3nsi0ns\nlak3 kal3y, ny 78560-1453",management,single,tertiary,False,112,True,False,cellular,2,feb,159,2,271,1,failure,False,keebler,jocelyn,3,2,nan
+822,40,"0732 jacobs mountain \nlake ayden, or 26529-7017",self-employed,married,tertiary,False,13669,False,False,cellular,15,oct,138,1,136,8,other,False,rohan,loma,4,10,water
+823,43,"688alexandreamountst.\nwesttimmyton,nv93831",management,married,tertiary,False,1429,True,False,cellular,19,nov,1015,1,198,2,other,True,leannon,elijah,4,11,nan
+828,47,"40347 jackeline point\nheathcotestad, az 00082-3778",unemployed,married,primary,False,168,True,False,telephone,30,jan,66,1,241,1,other,False,reynolds,hannah,4,1,nan
+837,39,"9622 erdman highway \nnew richard, il 83563-2854",services,single,secondary,False,7066,True,False,cellular,15,may,667,3,357,3,other,True,bogisich,alaina,3,5,nan
+843,59,"784parisianviews\nnorthasiaburgh,ut14150",management,single,secondary,False,671,True,True,cellular,29,jan,219,2,259,5,failure,False,hayes,joanne,5,1,nan
+849,55,"584 ken hollow st.\nport janelle, pa 53950",housemaid,divorced,primary,False,976,False,False,cellular,28,jun,345,1,94,3,other,True,jerde,brock,5,6,nan
+855,46,"9525 alaina mountain ave.\nalessandrastad, md 49107-5782",management,divorced,tertiary,False,624,False,False,cellular,17,sep,336,2,183,2,success,True,rosenbaum,irma,4,9,nan
+857,36,"044strosinstreetsuite779\nlakerosettafort,nc84407",blue-collar,married,secondary,False,-461,False,False,cellular,11,may,254,2,353,1,failure,False,schaefer,margaretta,3,5,water
+858,34,"26878rogersways\ncartwrightville,wa53054-6308",technician,single,tertiary,False,144,True,True,cellular,14,oct,104,1,85,19,failure,False,volkman,kacey,3,10,nan
+869,56,"91301 stamm courts\narielfort, pr 48758-9837",technician,married,secondary,False,150,True,True,cellular,11,may,102,6,349,1,failure,False,gibson,jacques,5,5,nan
+874,38,"668katrinelightst.\nromaguerabury,ar34535",management,single,tertiary,False,15030,True,False,cellular,13,may,167,1,174,7,other,False,dickens,ashlynn,3,5,nan
+880,26,"5460 waters lakes suite 323\ngoldenchester, gu 73687-4582",admin.,single,secondary,False,255,False,False,cellular,30,apr,457,1,80,1,success,True,prohaska,karolann,2,4,water
+881,31,"183 hamill hills \nlake reva, mi 13097-2081",technician,single,secondary,False,102,True,False,telephone,17,apr,460,2,345,2,failure,False,pfeffer,lonny,3,4,water
+883,45,"2188d3lm3rp0rtsuit3329\nim0g3n3vill3,dc73395",entrepreneur,married,primary,False,58,True,False,telephone,13,may,119,3,371,3,failure,False,mitchell,nayeli,4,5,nan
+891,28,"8898monahanharborssuite873\nlakebrodyfort,tn92419",management,single,tertiary,False,882,False,True,cellular,29,jan,94,1,205,2,failure,False,denesik,dannie,2,1,water
+892,27,"313 bednar radial st.\nsouth enolafurt, il 47202-4769",student,single,tertiary,False,5291,False,False,cellular,12,nov,192,2,92,2,failure,True,streich,marcelino,2,11,nan
+893,49,"9000j03sphvi3wsapt.903\nwis0zkm0uth,wi58123-0794",management,single,secondary,False,61,True,False,cellular,29,jan,185,2,246,1,failure,False,schmidt,lexie,4,1,nan
+901,30,"8278 natalia walk ave.\neast stephon, il 77078",technician,single,tertiary,False,3,True,False,cellular,6,may,45,2,169,2,failure,False,waelchi,mozell,3,5,nan
+903,34,"4883 bechtelar grove ave.\nnorth gillian, vt 81382-8168",admin.,married,tertiary,False,35,True,False,cellular,15,oct,76,1,69,2,failure,False,towne,malika,3,10,nan
+906,31,"4127 gulg0wski cap3 av3.\nkurtt0wn, m3 69717-3113",blue-collar,married,primary,False,99,True,False,cellular,17,apr,193,2,322,1,other,False,king,timmy,3,4,nan
+913,41,"3353 mortimer path apt. 093\nerdmanview, aa 61660",management,married,tertiary,False,-29,False,False,cellular,29,jan,41,2,266,2,failure,False,leffler,jettie,4,1,nan
+926,38,"7469n0v3llaf0rkav3.\ns0uthsylvan,gu28367",admin.,married,primary,False,3913,True,False,cellular,20,apr,196,2,315,2,failure,False,jewess,waino,3,4,nan
+941,34,"1229c0rd3llstrav3nu3av3.\nwa3lchib0r0ugh,sd34269-2112",management,married,tertiary,False,0,True,False,cellular,7,aug,262,1,99,2,success,True,sipes,candido,3,8,nan
+942,36,"3209gl0v3rl0dg3av3.\nlak3k3nn3thb3rg,mn36751-2519",management,married,tertiary,False,222,True,False,cellular,6,may,317,1,169,2,failure,False,homenick,lorenzo,3,5,nan
+956,27,"230marvinshoresapt.916\nosinskishire,mp71664",unemployed,single,secondary,False,3276,False,False,cellular,5,aug,106,1,110,2,other,False,yundt,jordon,2,8,nan
+960,52,"92230 kaycee walk\nnew mortimer, aa 29298",technician,married,secondary,False,196,True,True,cellular,24,feb,116,1,273,3,failure,False,labadie,ladarius,5,2,nan
+967,35,"452gislas0nradialsuit3668\nlak3j0nath0n,n311480-1298",blue-collar,married,secondary,False,6411,True,True,cellular,30,jan,144,1,266,2,failure,False,mraz,marcella,3,1,nan
+970,58,"3477 virginie ports apt. 731\nsouth ernestview, ap 32074-6123",self-employed,married,primary,False,1013,True,False,cellular,11,aug,206,1,461,1,failure,True,hand,lamar,5,8,nan
+973,37,"9525 t0ni pass av3.\nn3w karl3y, ms 62235",technician,single,secondary,False,5436,True,False,cellular,6,may,7,11,351,1,failure,False,wolff,delpha,3,5,nan
+984,59,"6583 wilderman oval ave.\nschultzmouth, dc 77976-8003",self-employed,married,tertiary,False,2013,False,False,cellular,19,feb,222,4,94,2,success,True,nolan,eladio,5,2,nan
+997,34,"011c0rd3lltrafficwayst.\n3astd3m3trisvi3w,id36846",management,single,tertiary,False,673,True,True,cellular,20,nov,271,1,184,1,failure,False,streich,zoie,3,11,nan
+999,20,"509forrestcrossingapt.292\ndwightchester,ne29630",student,single,secondary,False,291,False,False,telephone,11,may,172,5,371,5,failure,False,moore,akeem,2,5,nan
+1020,42,"5380 0b3rbrunn3r vall3ys suit3 594\nr0s3nbaumsid3, nc 59105",technician,married,secondary,False,994,True,False,cellular,11,aug,149,1,78,5,failure,True,robel,carley,4,8,nan
+1030,38,"2231 vance wall ave.\nlake malloryhaven, mh 12544-0774",management,married,tertiary,False,-70,True,False,cellular,30,jan,140,1,2,3,other,False,dach,immanuel,3,1,water
+1040,55,"77693 pi3tr0 w3ll\nkarli3vi3w, wi 21244",blue-collar,divorced,secondary,False,1613,True,False,cellular,3,apr,296,1,270,3,failure,True,wisoky,delpha,5,4,nan
+1042,30,"1465 k3shawn light apt. 358\nfranc3scap0rt, al 76536",admin.,single,secondary,False,81,True,False,cellular,6,aug,121,6,112,3,other,False,koepp,dorcas,3,8,nan
+1048,34,"4362 gusik0wski cr0ssr0ad av3.\nkshl3rinm0uth, ms 86493-2520",services,married,secondary,False,1337,False,False,cellular,17,dec,330,2,127,3,success,True,quigley,andy,3,12,nan
+1056,63,"3285tedjunctionapt.856\nnewalbertafurt,ut24289-4622",entrepreneur,married,secondary,False,3904,False,False,telephone,4,aug,250,2,187,2,success,True,runolfsdottir,geoffrey,6,8,nan
+1060,48,"27578 cr3min hav3n\nn0rth m3ghan, wy 35789-6670",management,married,tertiary,False,1147,False,False,cellular,5,aug,389,1,64,2,success,True,gerhold,kathryn,4,8,nan
+1069,45,"036 herzog vista st.\nwest alisonside, mi 37852-3449",technician,single,unknown,False,7108,True,True,cellular,18,nov,53,1,172,3,failure,False,block,michel,4,11,nan
+1071,38,"076hamillland\nkristofferport,ar50536",blue-collar,married,secondary,False,0,True,False,cellular,13,may,57,5,349,1,other,False,rutherford,rogers,3,5,nan
+1073,30,"75719faypoint\nwestgreysonbury,ap12443-3569",management,single,tertiary,False,726,True,False,cellular,16,apr,39,1,342,3,failure,False,lakin,kyle,3,4,nan
+1076,54,"905 freeman mountains st.\nsouth hoseaberg, nv 28541-3365",unknown,married,secondary,False,2206,False,False,cellular,12,nov,104,1,99,2,other,True,hirthe,juliana,5,11,nan
+1077,38,"714 schmeler club suite 961\nbeaulahstad, mh 52455",admin.,married,tertiary,False,1988,False,False,cellular,27,mar,164,2,130,2,failure,True,howe,joe,3,3,nan
+1083,64,"092wileyplazaapt.882\nnorthalenaberg,md09705-4103",housemaid,married,primary,False,768,False,False,cellular,15,jul,250,2,182,1,success,False,botsford,octavia,6,7,nan
+1096,46,"9816dachspursuite906\nnapoleonchester,nv10764-2498",technician,married,tertiary,False,217,True,False,cellular,14,may,141,1,346,2,other,False,leannon,stanton,4,5,nan
+1097,45,"8773 jakubowski lights ave.\nstewartmouth, mt 25803-9845",management,divorced,tertiary,False,2096,False,False,cellular,21,nov,127,1,100,2,failure,False,hackett,madyson,4,11,nan
+1100,59,"20634 destiney lodge\neast maxwell, ca 80218",management,married,tertiary,False,1831,False,False,cellular,17,feb,122,1,92,1,failure,False,hane,michel,5,2,nan
+1104,37,"512 stanford park st.\nport heloise, me 69540-7632",blue-collar,single,primary,False,851,True,False,cellular,15,may,151,1,352,1,failure,False,bergstrom,luis,3,5,nan
+1106,35,"4726 russel plaza apt. 602\nschambergerburgh, me 08355",blue-collar,married,secondary,False,137,False,True,unknown,4,oct,5,1,808,12,failure,False,smith,kara,3,10,nan
+1108,43,"61052 karl3y c0urs3\nc0rn3liusbury, pa 40219-7355",management,single,tertiary,False,146,False,False,cellular,21,nov,50,1,113,5,other,False,bins,reid,4,11,nan
+1109,59,"3993 keebler brooks ave.\nwest jaidentown, ak 22866",technician,married,secondary,False,1,False,False,cellular,15,apr,159,2,378,3,failure,True,krajcik,eveline,5,4,nan
+1111,37,"974 stokes key suite 929\nwest mustafatown, gu 61724",technician,married,secondary,False,480,False,False,cellular,22,oct,344,2,182,8,other,True,brown,elise,3,10,nan
+1112,35,"6912 bechtelar shores ave.\nhodkiewiczmouth, co 13678",technician,married,secondary,False,2789,True,False,cellular,4,sep,256,2,94,1,failure,False,klocko,emmalee,3,9,nan
+1117,42,"6275 scarlett drive apt. 521\nnew karianneland, fl 91945-3267",technician,single,tertiary,False,-411,True,False,cellular,12,may,78,5,292,3,failure,False,rau,jamal,4,5,nan
+1122,32,"564urbancampst.\njerdehaven,az51806",technician,married,tertiary,False,4089,False,False,cellular,26,may,114,7,287,3,failure,False,osinski,rosalind,3,5,nan
+1124,37,"432 h3ct0r tunn3l suit3 161\n0rtizt0wn, ks 19738",technician,married,unknown,False,189,False,False,cellular,1,oct,238,1,107,2,success,True,lowe,julia,3,10,nan
+1129,36,"6534 sti3d3mann rapid av3.\nh3tti3vill3, in 96793",management,single,tertiary,False,243,True,False,cellular,7,may,160,2,360,3,failure,False,gleason,meda,3,5,nan
+1136,36,"97121j3nni3light\nlak33dgar,mh07618-4237",services,single,secondary,False,1482,True,False,cellular,18,nov,177,2,174,1,other,False,heaney,else,3,11,nan
+1154,47,"0424 emerson gateway suite 862\nwest howardmouth, ks 80374",admin.,married,secondary,False,1934,False,True,cellular,14,may,225,1,364,1,failure,False,huels,marcelo,4,5,nan
+1159,31,"8426 nicolas plains ave.\nwest geo, de 48466-8985",management,single,tertiary,False,62,True,False,cellular,18,may,175,1,293,5,failure,False,hagenes,kaylie,3,5,flat
+1163,35,"538h0m3nickvall3ysuit3549\nn0rthcic3r0,al34109",unemployed,married,secondary,False,977,True,False,cellular,4,may,52,4,91,1,other,False,price,juwan,3,5,nan
+1166,32,"871 antwon islands suite 086\nbraunside, az 36122",technician,single,tertiary,False,5514,False,False,cellular,22,apr,319,1,182,1,success,True,weissnat,rebecca,3,4,nan
+1167,33,"167 walsh hollow st.\no'haratown, gu 91212",blue-collar,married,secondary,False,889,True,False,unknown,18,sep,13,1,373,6,success,False,mohr,raina,3,9,nan
+1173,34,"281 hamill manor \nlake danamouth, mp 77468-1485",technician,single,secondary,False,2729,True,False,cellular,6,apr,945,1,139,1,success,False,denesik,mathew,3,4,water
+1176,50,"8619 deckow port apt. 972\nnorth verla, md 95503",management,married,tertiary,False,-470,True,False,cellular,8,may,506,2,170,3,failure,False,wilkinson,yvonne,5,5,nan
+1181,34,"81593jar0dfalls\nh0m3nickshir3,mi98627-2991",services,married,secondary,False,1076,False,False,cellular,12,may,152,1,182,6,success,True,hessel,karli,3,5,nan
+1186,71,"9057 dubuque cliffs ave.\nwest ted, mp 02850",technician,married,tertiary,False,383,False,False,cellular,27,oct,327,2,183,3,success,False,rempel,clay,7,10,nan
+1193,33,"8052boganramp\nportjoesph,az61291-3012",blue-collar,single,secondary,False,706,True,False,cellular,7,apr,329,1,322,1,failure,False,kuhlman,camren,3,4,nan
+1194,36,"8119 lambert corner apt. 523\nabbeyfort, aa 74617",management,married,secondary,False,1825,True,False,cellular,14,may,24,1,346,1,failure,False,bosco,rhianna,3,5,nan
+1195,59,"8506halli3passapt.359\nc0dyshir3,va71368-3802",self-employed,married,tertiary,False,185,False,False,cellular,22,jun,177,5,138,1,failure,False,rice,buddy,5,6,nan
+1205,39,"3853 jude terrace apt. 160\nconsidinetown, pr 45694-5096",blue-collar,married,unknown,False,0,False,False,cellular,2,feb,731,1,193,3,failure,False,mohr,assunta,3,2,nan
+1209,58,"931 huels circles st.\nwilkinsonville, al 59013",retired,single,secondary,False,1640,False,True,cellular,4,feb,72,6,274,4,failure,False,gerhold,daryl,5,2,nan
+1210,60,"8822 harris flat suite 204\ngreenfelderhaven, dc 30631-1386",admin.,divorced,secondary,False,174,True,False,cellular,15,may,241,1,364,1,failure,False,keebler,wilson,6,5,nan
+1212,36,"060 n0rw00d 0rchard suit3 562\n3arn3stin3p0rt, m0 15603-0900",management,single,tertiary,False,490,False,False,cellular,28,aug,207,8,98,1,failure,True,heller,jerrell,3,8,nan
+1216,29,"912schummskywayst.\nsouthbonnieport,ae63460-6433",management,single,tertiary,False,15459,False,False,cellular,26,may,245,3,97,7,success,False,ortiz,morton,2,5,nan
+1223,49,"5568 jacobi valley \nnorth paxtonchester, il 69465",management,divorced,tertiary,False,2370,True,True,unknown,17,nov,56,1,103,2,other,False,kulas,roxane,4,11,nan
+1225,51,"178arvidknoll\nnewlorenberg,ak41706-7861",blue-collar,married,secondary,False,160,True,False,cellular,7,may,136,1,359,1,failure,False,sawayn,noemi,5,5,nan
+1226,32,"081 jacobs mill st.\nrueckerview, ks 15180-2686",admin.,divorced,secondary,True,5,True,True,cellular,18,may,82,3,363,2,other,False,mitchell,keira,3,5,nan
+1240,27,"8058gaylehollowave.\nboehmton,ms11690-0807",services,married,secondary,False,54,True,False,cellular,18,may,97,1,370,1,failure,False,ward,mack,2,5,nan
+1242,35,"048 richmond trafficway st.\nsouth adriel, ca 92826",blue-collar,married,primary,False,298,True,False,cellular,13,may,135,2,370,2,failure,False,quitzon,hayden,3,5,nan
+1262,43,"61981 b0gan lak3\nn0rth rafa3l, nh 26307-7378",blue-collar,married,primary,False,-98,True,True,cellular,12,may,112,2,330,3,other,False,jacobson,robin,4,5,nan
+1275,41,"1040f3liciadriv3apt.121\nn3wb3ssi3furt,vt20890",blue-collar,married,secondary,False,-217,True,False,cellular,11,may,313,1,349,3,other,False,halvorson,jaquan,4,5,nan
+1276,41,"48711 mraz square\nnorth kirstinberg, nm 67212-1735",management,divorced,tertiary,False,5037,False,False,cellular,23,apr,252,9,185,5,other,True,mante,salvatore,4,4,nan
+1279,32,"8939 kiara gard3ns av3.\ncr00ksbury, sc 57317",management,married,tertiary,False,913,True,False,cellular,23,jun,883,1,674,4,failure,False,pouros,hoyt,3,6,nan
+1303,42,"80914 bertram mall\nferrytown, co 92463",management,married,unknown,False,1519,False,False,cellular,19,oct,230,1,92,1,success,True,haley,maria,4,10,nan
+1309,31,"4522 schmitt parks \njonasside, ae 32100-1092",management,married,secondary,False,625,True,False,cellular,7,apr,424,1,138,1,failure,False,anderson,kattie,3,4,nan
+1311,51,"106 walsh island st.\neast susana, co 32576-9600",services,married,secondary,False,867,True,False,cellular,3,feb,177,2,211,3,failure,False,mante,camila,5,2,nan
+1312,80,"7462 luci3 club av3.\n3ast cyrilm0uth, ma 61863",retired,married,secondary,False,8304,False,False,telephone,9,jun,712,1,64,12,failure,True,bernier,gabrielle,8,6,nan
+1320,48,"13842jakubowskiheights\neastorloshire,nv62920",management,married,tertiary,False,60,False,False,telephone,7,may,376,2,339,7,failure,False,nicolas,nicola,4,5,nan
+1323,46,"1510 aliya island suite 481\ncummeratachester, dc 99587-6109",blue-collar,married,primary,False,91,True,False,cellular,6,may,29,1,356,2,failure,False,hauck,josh,4,5,nan
+1324,41,"168 xander villages st.\nsouth bertrandton, or 33898",entrepreneur,married,tertiary,False,171,True,False,cellular,19,nov,209,1,191,4,failure,False,gislason,leonie,4,11,nan
+1327,33,"1224 hazle corners apt. 196\nsouth ruth, pa 46143-4071",blue-collar,divorced,primary,False,142,True,False,telephone,11,may,41,2,300,5,failure,False,greenholt,jeanne,3,5,nan
+1337,40,"7050 3lm0 vista \n3ast d3lb3rt, mp 35215-1238",management,single,tertiary,False,1509,False,False,cellular,15,mar,144,2,124,1,failure,False,stanton,mustafa,4,3,nan
+1342,27,"608carm3nramp\nhip0lit0furt,aa78873",admin.,married,secondary,False,710,True,True,cellular,6,may,653,1,334,2,success,True,yundt,finn,2,5,nan
+1343,47,"10237gislasonbridge\nwestleopoldtown,aa73280-2107",technician,married,secondary,False,1233,True,False,unknown,11,sep,91,1,100,2,other,True,abbott,jaleel,4,9,nan
+1345,40,"39657 gudrun fields\ncristview, gu 53647",management,divorced,tertiary,False,69,True,False,cellular,6,may,503,2,280,2,failure,False,schneider,duncan,4,5,nan
+1346,34,"388 b3rni3 ridg3 apt. 826\nchamplinvi3w, mt 50167-3093",admin.,married,secondary,False,1499,True,False,cellular,13,apr,186,1,327,2,failure,False,breitenberg,gennaro,3,4,nan
+1349,83,"440 h3id3nr3ich r3st st.\nn0rth 3liza, vt 12763-6017",retired,married,primary,False,425,False,False,telephone,22,jun,883,1,140,1,failure,True,bednar,zula,8,6,nan
+1355,29,"447 wayne turnpike st.\nlake alana, ae 72301",admin.,single,secondary,False,1448,False,False,cellular,10,mar,217,1,184,7,other,False,considine,ashtyn,2,3,water
+1374,45,"3404effertzknolls\nkoeppshire,wa78830",self-employed,married,secondary,False,706,False,False,cellular,30,apr,78,2,176,1,success,False,spinka,rossie,4,4,nan
+1379,46,"98697reyespike\nnewgarthfort,ks94045-6450",admin.,married,secondary,False,368,False,False,cellular,20,aug,293,1,90,4,other,True,schmidt,rudy,4,8,nan
+1380,41,"5773 wilbert roads ave.\nklockohaven, ae 68695",blue-collar,married,secondary,False,121,True,False,cellular,13,may,16,6,176,5,other,False,pfeffer,khalil,4,5,nan
+1382,24,"326 abshir3 0v3rpass st.\nlurat0wn, ks 37636-3452",admin.,married,secondary,False,299,True,False,cellular,6,may,209,1,321,1,failure,False,johnston,henry,2,5,nan
+1386,50,"9528westrampave.\nwestneomaville,fm00894-7874",services,married,secondary,False,254,True,False,cellular,15,apr,397,2,337,1,failure,False,marquardt,blanca,5,4,nan
+1387,25,"3290 rico oval ave.\neast mikayla, me 66546",management,single,tertiary,False,553,True,False,cellular,17,sep,113,4,479,1,failure,False,mertz,loren,2,9,nan
+1391,21,"744hillltunn3lst.\nwillisbury,pw15011-2755",services,single,secondary,False,361,False,False,telephone,5,jun,329,1,95,1,other,False,schulist,demario,2,6,relief
+1398,34,"723 jeramie plaza apt. 572\npacochamouth, vi 18263",technician,single,secondary,False,341,False,True,cellular,29,jan,136,1,262,3,failure,False,klein,savanah,3,1,nan
+1405,37,"8132 leuschke estates suite 205\nlake randi, ks 06114-4141",blue-collar,married,primary,False,37,True,False,cellular,13,may,24,2,362,1,other,False,predovic,chris,3,5,water
+1411,35,"07652 makayla riv3r\ngayl0rdb0r0ugh, 0h 50997",blue-collar,single,secondary,False,0,True,False,cellular,16,apr,1174,1,345,4,other,True,hermann,evan,3,4,nan
+1421,28,"7329 stamm m0t0rway apt. 749\nlak3 mandyb0r0ugh, ga 07285",admin.,married,secondary,False,-97,True,False,cellular,29,jan,79,1,225,2,success,False,kilback,jailyn,2,1,nan
+1424,32,"55091 huel bypass\nnew quincyshire, as 15554-9904",student,single,tertiary,False,0,False,False,cellular,6,aug,101,5,3,6,other,False,mills,kasandra,3,8,nan
+1425,36,"2791tremainestationave.\nclarabellebury,ak21594-4364",management,married,tertiary,False,495,False,False,cellular,5,aug,157,3,97,2,success,True,lynch,gage,3,8,nan
+1426,38,"1624 haag street ave.\nbartton, ky 79629-5244",entrepreneur,married,secondary,False,157,False,True,cellular,15,may,57,11,366,1,other,False,cole,jordi,3,5,nan
+1437,77,"470wuck3rtdriv3suit3204\nlu3ilwitzb3rg,fm75188-7461",retired,married,tertiary,False,0,False,False,cellular,16,oct,847,1,60,1,success,True,orn,cecile,7,10,nan
+1442,73,"1430lourdespark\nlizaborough,ok02963",retired,married,primary,False,1388,False,False,cellular,20,jul,146,3,190,3,success,False,armstrong,sydni,7,7,nan
+1444,57,"9708 karson trafficway ave.\nnew delta, nd 02460-1604",technician,divorced,primary,False,13,True,False,cellular,8,may,323,2,368,2,failure,False,larson,mohammed,5,5,nan
+1457,33,"7678 frami canyon \npiperchester, pa 95769",management,married,tertiary,False,3696,False,False,cellular,19,nov,305,1,182,3,failure,False,harvey,luther,3,11,relief
+1468,38,"9925lukastrackave.\nlakejaclyn,ak67162",management,married,tertiary,False,0,True,False,cellular,13,may,537,5,303,2,failure,False,welch,zula,3,5,water
+1469,59,"560 wanda f0r3st \nw3st pr3ci0us, in 47425",technician,married,secondary,False,259,False,False,cellular,15,jun,415,1,89,1,success,True,kuhn,ismael,5,6,nan
+1471,38,"5865considineferryave.\nnorthjustineton,id98231-6802",technician,single,tertiary,False,744,True,False,cellular,14,may,283,1,288,12,other,False,tillman,zoey,3,5,nan
+1478,35,"948 ayana gl3ns st.\nb3rnhardland, wi 43799",technician,single,tertiary,False,7546,True,False,cellular,28,dec,137,1,122,3,failure,False,davis,dale,3,12,nan
+1482,39,"0321purdyturnpik3apt.993\nbayl33ch3st3r,ny46518-5989",blue-collar,married,secondary,False,0,True,False,cellular,7,may,502,1,7,2,failure,False,jaskolski,elwin,3,5,nan
+1485,29,"932 m03n l0dg3 st.\n3mm3richland, nm 85612-5349",technician,single,secondary,False,113,False,False,cellular,12,feb,328,2,183,4,success,True,koss,hyman,2,2,nan
+1510,45,"284 bogisich tunnel st.\nwest reneeland, ar 33530-6029",technician,married,secondary,False,1415,True,False,cellular,17,nov,483,1,116,1,failure,False,macejkovic,gaston,4,11,nan
+1518,32,"8859 wolf forks ave.\nwaltermouth, nc 15222",technician,married,secondary,False,286,False,False,cellular,20,apr,60,1,343,4,failure,False,langworth,vernie,3,4,nan
+1520,35,"438 cassandr3 0rchard apt. 362\nh0wardburgh, aa 16939",management,married,tertiary,False,93,False,False,cellular,4,may,198,2,88,1,other,False,donnelly,asha,3,5,nan
+1521,38,"7060 roob mountain apt. 879\nport bricetown, pa 10337-8863",blue-collar,married,secondary,False,1663,True,False,cellular,13,apr,217,3,327,1,failure,False,anderson,carter,3,4,nan
+1524,42,"333 kayl3y gr0v3s \nwalt3rb3rg, ny 30432-1828",blue-collar,married,primary,False,792,True,True,cellular,19,nov,611,2,175,12,other,False,veum,adelia,4,11,nan
+1535,37,"71736feilplaza\nsouthmalloryburgh,pa49353",services,married,secondary,False,4760,True,False,cellular,8,may,182,2,169,2,failure,False,erdman,edgardo,3,5,nan
+1538,50,"81341dill0nisland\np0rtamaliab3rg,0k23368-1143",blue-collar,divorced,secondary,False,203,True,False,telephone,19,nov,265,1,127,4,other,False,rodriguez,ferne,5,11,nan
+1541,43,"5242 lindsey trail ave.\nnikolausville, ap 34207",self-employed,married,secondary,False,634,True,False,cellular,17,nov,65,1,131,1,failure,False,cartwright,karina,4,11,nan
+1547,54,"6105 casper loop apt. 427\nnedhaven, nh 69806-2316",entrepreneur,married,tertiary,False,1544,False,True,cellular,5,feb,85,7,196,3,failure,False,mohr,adolphus,5,2,nan
+1548,32,"936 carter station apt. 159\nwilkinsonstad, ga 27184",services,single,unknown,False,6145,True,False,cellular,14,may,362,1,287,13,failure,False,tromp,jackie,3,5,nan
+1561,54,"7475 cummerata mall ave.\nnorth letha, ak 74393",services,married,unknown,False,386,False,True,cellular,19,nov,74,1,152,1,success,False,roob,webster,5,11,nan
+1571,36,"7237 hassan cliff suit3 559\nb0ganp0rt, gu 35173",blue-collar,married,primary,False,49,True,False,cellular,15,may,232,2,365,5,other,False,funk,amani,3,5,nan
+1575,34,"684markvistast.\njacobsfort,ak40729",blue-collar,single,primary,False,464,True,False,cellular,18,may,173,1,299,2,other,False,treutel,cade,3,5,nan
+1579,37,"73820 quigley heights\nschoenfurt, ms 85404",management,married,tertiary,False,539,False,False,cellular,18,jan,540,2,115,3,failure,False,reynolds,bertram,3,1,nan
+1582,46,"718jaunitaforgesuite251\nblandaside,mp18732-2460",blue-collar,married,primary,False,2558,True,False,telephone,20,nov,107,1,167,1,other,False,pollich,marty,4,11,nan
+1591,70,"9726nic0lasplainssuit3738\n3mili0shir3,ut54841-6754",retired,married,secondary,False,2815,False,False,cellular,26,apr,125,2,182,1,failure,False,morar,antwan,7,4,flat
+1600,32,"4616 abshir3 driv3 \nd0m3nic0land, nv 99198",management,married,secondary,False,6217,True,True,cellular,18,nov,486,2,181,2,failure,False,ratke,electa,3,11,nan
+1603,32,"8657 prohaska rue ave.\nsouth jovanside, az 70897-3138",technician,married,unknown,False,14533,False,False,cellular,31,dec,646,3,198,2,success,False,crist,elfrieda,3,12,nan
+1621,55,"6026h3b3rstr3amsuit3893\ns0uthang3lin3,pw54991-3297",self-employed,married,secondary,False,203,True,False,telephone,14,may,9,5,174,12,other,False,thiel,adella,5,5,nan
+1625,36,"63589handramp\nlaketaureanburgh,ky81720-2342",services,married,secondary,False,1746,True,False,cellular,7,apr,15,1,316,1,failure,False,ebert,quinn,3,4,water
+1628,38,"540 s0phia prairi3 suit3 206\nn3w raul, pa 80356",technician,married,secondary,False,821,True,True,cellular,17,nov,224,2,180,1,failure,False,legros,lesley,3,11,nan
+1633,59,"492yesseniacrossingapt.113\nberryshire,pa97758",blue-collar,married,primary,False,699,False,False,cellular,28,jan,98,1,154,6,failure,False,bernhard,mauricio,5,1,nan
+1634,42,"0633 andrew cove apt. 356\nsouth ethylborough, ga 19019-9047",unemployed,divorced,secondary,False,759,False,False,cellular,28,jan,97,1,169,3,failure,False,grimes,vaughn,4,1,nan
+1635,33,"6437 carolina junction \nlake rowland, me 86745-3438",blue-collar,married,secondary,False,687,True,False,cellular,14,may,72,2,370,1,failure,False,hackett,kyle,3,5,water
+1636,53,"76957 beer shoal\nsaraiport, nc 69301",retired,married,secondary,False,4968,False,False,cellular,6,may,109,1,87,2,failure,False,gulgowski,eldora,5,5,nan
+1650,36,"1898 micah turnpike ave.\neast mac, nd 39246-0766",admin.,divorced,secondary,False,356,True,False,cellular,7,apr,244,3,313,1,failure,False,barton,althea,3,4,nan
+1653,53,"4560aftonroadave.\nsouthjadyn,wi68211",blue-collar,married,primary,False,306,False,False,cellular,28,jul,388,3,181,1,success,True,nitzsche,aletha,5,7,nan
+1658,47,"836 h3gmann summit suit3 471\nbru3nm0uth, mp 84883",blue-collar,married,primary,False,556,True,False,cellular,4,feb,147,2,264,4,other,False,jast,brown,4,2,nan
+1666,32,"7945 hoppe way suite 478\nmoenport, fl 79475",management,married,tertiary,False,4761,True,False,cellular,5,may,159,2,350,2,failure,False,orn,foster,3,5,nan
+1676,40,"734 abelardo bypass suite 267\nwest marianshire, ut 95048-4565",admin.,married,secondary,False,168,True,False,cellular,7,may,249,2,169,1,failure,False,orn,constance,4,5,nan
+1695,43,"298maris0lm0t0rway\nw3stal3xys,ct83260",admin.,married,secondary,False,132,False,False,cellular,19,aug,574,1,84,3,success,True,reynolds,kiley,4,8,nan
+1697,34,"9861 champlin port suite 601\nclaudeburgh, fm 61463-5004",blue-collar,married,secondary,False,7,True,True,cellular,2,feb,171,2,193,2,other,False,kemmer,caterina,3,2,nan
+1698,31,"2682littlecrossroadave.\nportdomenico,mp62113",management,single,tertiary,False,3283,False,False,cellular,2,feb,258,1,73,1,failure,True,robel,amiya,3,2,nan
+1703,40,"23347 garrett corners\nnew juwan, ga 02326",unemployed,divorced,secondary,False,507,True,False,cellular,2,feb,134,1,266,7,failure,False,schulist,elisabeth,4,2,nan
+1707,30,"6998 gorczany road apt. 160\nwest adrain, ky 93108-3616",self-employed,married,secondary,False,123,False,True,unknown,17,jul,66,1,85,5,other,False,kling,ova,3,7,nan
+1713,56,"818haagvillage\neastmatt,tn70729-8864",blue-collar,married,secondary,False,2190,False,True,cellular,30,jan,90,2,232,1,failure,False,nicolas,antwon,5,1,nan
+1719,48,"7179 rosalee lodge apt. 288\ndavontemouth, nd 63701-7161",management,married,secondary,False,4415,True,False,cellular,8,apr,1032,3,141,7,failure,True,mante,hobart,4,4,nan
+1729,53,"09880 hauck islands\nnew tremayne, id 47365",admin.,single,secondary,False,2398,True,False,cellular,2,aug,317,1,180,2,failure,True,dooley,xavier,5,8,nan
+1736,40,"7781 b0sc0 light av3.\np0wl0wskivill3, ca 52945",admin.,single,secondary,False,100,True,False,cellular,11,aug,221,1,461,1,success,True,tremblay,timmy,4,8,nan
+1748,49,"896 erdman forks st.\nrodriguezberg, ny 98461-1408",admin.,married,secondary,False,197,True,False,cellular,13,apr,223,1,182,2,failure,True,schroeder,nia,4,4,nan
+1749,40,"095 dick3ns inl3t suit3 027\n3ast gillianch3st3r, va 12467",technician,single,tertiary,False,825,True,False,cellular,20,apr,38,1,335,1,other,False,weber,bruce,4,4,nan
+1750,47,"691 gunnar square st.\nmcdermotttown, wy 93323",housemaid,single,tertiary,False,3232,False,False,telephone,6,oct,541,1,204,3,failure,False,muller,zora,4,10,nan
+1754,29,"338 carroll rest st.\ngretchenbury, ak 94325",management,single,tertiary,False,1445,False,False,cellular,26,apr,328,2,143,2,success,True,grant,kaylah,2,4,nan
+1760,35,"6854 ann3tt3 l0ck suit3 451\nschummp0rt, m3 21298-4282",technician,married,secondary,False,0,True,False,cellular,9,nov,524,1,96,5,success,True,rolfson,adonis,3,11,nan
+1762,35,"41450 runolfsson groves\ndamonton, nd 77993-9818",self-employed,single,tertiary,False,44,False,False,cellular,7,sep,310,2,96,2,other,False,abbott,wilmer,3,9,nan
+1764,29,"9518 w3stl3y f0rds av3.\nflatl3yp0rt, gu 07487",admin.,single,secondary,False,1992,False,False,cellular,8,jul,202,1,87,2,failure,False,hickle,marianna,2,7,nan
+1767,51,"2611 berge circles ave.\nhanemouth, ks 95590-9902",management,single,tertiary,False,297,True,False,cellular,15,may,415,4,375,1,failure,True,von,opal,5,5,nan
+1779,32,"4517 ferry extensions ave.\nnorth charlene, ma 90046-8559",technician,single,tertiary,False,13711,True,False,cellular,14,may,638,1,175,3,success,False,dibbert,percy,3,5,nan
+1786,37,"053 mills roads st.\neast velvashire, ar 50432",services,single,secondary,False,1175,True,False,cellular,15,may,102,1,333,2,failure,False,gleichner,colten,3,5,nan
+1805,70,"46129 c0l3 kn0lls\nlak3 rylan, nh 33566-5252",retired,married,tertiary,False,15834,False,False,cellular,5,apr,172,3,186,1,failure,False,hintz,antonia,7,4,nan
+1810,28,"048d0nnyp0intsuit3151\nlak3g30rg3tt3,nc01959-8779",blue-collar,married,secondary,False,373,True,False,cellular,14,may,10,9,344,1,failure,False,hilpert,abbie,2,5,nan
+1817,27,"4240 kuhic mills av3.\narmanistad, la 78656-3382",blue-collar,married,secondary,False,2171,True,False,cellular,16,apr,130,1,323,1,other,False,schimmel,maverick,2,4,nan
+1820,46,"857 lemke mews apt. 684\njanbury, pr 67431",admin.,married,secondary,False,4958,True,False,cellular,17,nov,64,3,150,5,other,False,hand,brandyn,4,11,nan
+1827,50,"223 lisa hills st.\nnorth raina, mp 12638-5694",management,married,tertiary,False,4374,True,False,cellular,21,nov,163,2,113,3,failure,False,kemmer,maximilian,5,11,relief
+1830,36,"83009 margie forest\nsallyhaven, ma 67956-4220",services,single,secondary,False,774,True,False,cellular,3,feb,231,2,259,1,failure,False,kovacek,katelyn,3,2,nan
+1833,37,"080 dexter fork suite 917\nroobbury, sd 88552",blue-collar,married,primary,False,0,True,False,cellular,6,may,226,1,363,3,other,False,kutch,frederique,3,5,nan
+1848,38,"165 larson view \nbernhardborough, sc 47443-5207",blue-collar,married,primary,False,2240,True,False,cellular,19,nov,551,1,183,1,failure,False,daniel,twila,3,11,nan
+1856,48,"880 lesch centers apt. 104\nwest alyson, sc 98017",management,divorced,tertiary,False,541,True,False,cellular,14,may,72,1,363,2,other,False,grimes,jesse,4,5,nan
+1862,47,"6723r0b3lplainssuit3769\nkayl33land,vi68757",blue-collar,married,secondary,False,1230,True,False,cellular,30,apr,412,1,169,1,success,True,walsh,dawn,4,4,flat
+1863,32,"157 deshaun gardens st.\nalessandramouth, nm 16574-3286",admin.,single,secondary,False,45,True,True,cellular,14,may,908,3,344,7,other,False,schneider,nicolas,3,5,nan
+1866,86,"663 shanel landing st.\nwest grady, oh 52228-1252",retired,married,secondary,False,1503,False,False,telephone,18,mar,165,3,101,1,other,False,casper,syble,8,3,nan
+1868,42,"00713 jakubowski turnpike\nlianaton, md 67566-7587",management,married,primary,False,-679,True,True,cellular,6,may,159,1,343,2,failure,False,gaylord,americo,4,5,nan
+1870,25,"397 katelyn lights apt. 529\neast audreanne, pr 45822-7090",student,single,unknown,False,10788,False,False,cellular,23,dec,102,2,210,2,other,False,erdman,suzanne,2,12,nan
+1871,34,"45396 trent landing\nolsonmouth, ap 69684-7325",services,divorced,secondary,False,991,True,False,cellular,6,may,89,1,344,1,failure,False,bauch,juvenal,3,5,nan
+1875,30,"067 nolan ford suite 145\nnorth eileen, md 46106-3829",blue-collar,single,secondary,False,180,False,False,cellular,14,jul,203,1,183,2,failure,False,ankunding,janis,3,7,nan
+1882,34,"6214bobbymountainave.\neastdorthystad,or42858-1015",technician,single,secondary,False,440,True,False,cellular,6,may,445,2,345,2,failure,False,barton,rocky,3,5,nan
+1884,39,"7799 yost glen ave.\nboganport, ny 67741",technician,married,secondary,False,-735,True,False,cellular,30,jan,144,5,248,2,failure,False,daniel,talia,3,1,nan
+1886,39,"643 miller shoals suite 662\nhalvorsonside, de 25494-1845",technician,divorced,secondary,False,902,True,False,cellular,10,feb,691,2,180,5,failure,True,baumbach,grant,3,2,nan
+1904,28,"925wald0trafficwaysuit3131\n3astnatasha,m083117",student,single,tertiary,False,0,False,False,cellular,28,sep,294,2,105,7,other,True,watsica,carmelo,2,9,nan
+1905,46,"284 r33d gat3way suit3 596\nr0s3nbaumb3rg, mi 48828-6716",management,married,tertiary,False,273,True,False,cellular,18,mar,910,2,184,4,success,True,aufderhar,loyce,4,3,nan
+1910,54,"50279 b03hm f0rks\nhaili3sid3, m0 39968-3339",retired,married,secondary,False,1139,True,False,cellular,14,may,155,1,177,7,failure,False,mante,matteo,5,5,nan
+1912,54,"0896 marquis3 path \ndustyshir3, hi 30293",blue-collar,married,secondary,False,0,False,False,telephone,16,apr,1366,1,150,1,failure,False,schumm,augustine,5,4,nan
+1915,29,"107 verona islands \neast tanya, ga 61191-3417",management,single,tertiary,False,1026,False,False,cellular,12,nov,226,1,92,1,other,True,batz,ceasar,2,11,nan
+1928,22,"08400 waldo unions\nwest deshaun, nv 22298",student,single,primary,False,3472,False,False,cellular,20,oct,332,1,183,3,failure,True,gulgowski,hallie,2,10,nan
+1933,49,"853 jam3l passag3 suit3 943\ngradych3st3r, ia 25870-4239",blue-collar,married,primary,False,474,True,True,telephone,9,feb,152,3,221,1,failure,False,waelchi,courtney,4,2,nan
+1951,46,"351 lamar mall st.\nkubburgh, ca 60781",entrepreneur,single,tertiary,False,1410,True,False,cellular,19,nov,93,1,189,8,failure,False,o'reilly,albert,4,11,nan
+1952,41,"4194 estevan cove suite 328\nnew irwin, ok 55055-5965",admin.,divorced,secondary,False,6046,True,True,telephone,15,mar,300,6,182,2,success,True,flatley,zion,4,3,nan
+1953,36,"1068 maurice mews ave.\nlubowitzfurt, ma 95648-3597",admin.,single,tertiary,False,980,False,False,cellular,11,nov,118,4,104,7,failure,False,treutel,katheryn,3,11,nan
+1956,77,"325 monserrate island st.\nwest minervaland, nm 17691",retired,married,primary,False,680,False,False,telephone,24,feb,513,2,89,7,failure,False,wisoky,harley,7,2,nan
+1970,35,"920 smith bridge st.\nalantown, ap 04348-1759",technician,married,secondary,False,-259,True,False,cellular,29,jan,381,1,247,2,failure,False,jewess,soledad,3,1,nan
+1978,54,"72133bauchstream\nnewelishaberg,oh75516",blue-collar,married,unknown,False,310,True,False,telephone,28,jan,526,4,258,3,other,False,cole,mohammed,5,1,nan
+1980,56,"224 pip3r l0cks st.\ns0uth p3arlm0uth, nj 21118",admin.,married,unknown,False,2038,False,False,cellular,8,feb,405,1,305,1,success,False,bashirian,frank,5,2,nan
+1983,34,"6888 krystal burg av3.\nr3yn0ldsfurt, ia 41210",technician,single,secondary,False,105,True,False,cellular,7,may,146,2,171,3,failure,False,jacobs,genoveva,3,5,nan
+1989,45,"806hirtheshoalsst.\neastkarlside,la08214-0318",blue-collar,married,secondary,False,2926,True,True,cellular,19,nov,482,3,120,2,failure,False,fahey,ransom,4,11,nan
+2000,28,"6284 d3witt w3ll apt. 083\nalvi3w, ma 75865-5283",blue-collar,married,primary,False,60,True,False,cellular,6,may,161,1,337,1,failure,False,kozey,kevon,2,5,nan
+2002,32,"857 vonrueden spur suite 503\nport soledadburgh, nc 92479-4802",admin.,single,tertiary,False,1583,True,False,cellular,19,nov,100,1,182,1,failure,False,deckow,abby,3,11,nan
+2004,28,"606alfredatrafficway\nstehrburgh,mi79290-4252",blue-collar,single,secondary,False,1065,True,True,cellular,17,apr,406,1,317,1,failure,False,christiansen,lester,2,4,nan
+2005,51,"335 fah3y hav3n \nmcclur3f0rt, wi 05066",unemployed,married,secondary,False,-13,True,False,cellular,13,may,361,1,364,1,failure,False,daniel,napoleon,5,5,nan
+2013,31,"3806 bosco drive suite 629\njustynchester, ok 85450-0263",blue-collar,single,secondary,False,609,True,False,cellular,14,apr,1126,1,335,1,failure,False,gislason,damion,3,4,nan
+2015,40,"3526 douglas stravenue ave.\nsawaynberg, in 02807",management,single,tertiary,False,0,True,False,cellular,23,feb,228,2,182,6,failure,True,rau,hugh,4,2,nan
+2019,51,"8934 carolina forks \naudrachester, ky 54868",blue-collar,married,primary,False,42,True,False,cellular,12,may,51,2,342,3,failure,False,ratke,dakota,5,5,nan
+2032,59,"36736 kilback gr33ns\nn3w h3rman, a3 22170",management,married,primary,False,1727,False,False,telephone,25,may,500,4,358,2,failure,True,hoeger,therese,5,5,nan
+2037,30,"1277 alana unions ave.\nport judge, ks 84916-2487",management,married,tertiary,False,1942,True,True,cellular,21,nov,436,2,178,3,other,True,runolfsson,claud,3,11,nan
+2049,59,"323 purdy shores suite 122\nkielland, pw 73753-8583",technician,married,primary,False,4198,False,False,cellular,14,jan,309,1,91,10,success,True,herman,madisyn,5,1,nan
+2050,52,"9405willmscrestave.\nnorthhopeview,ga33322-1245",blue-collar,married,primary,False,230,True,False,cellular,6,may,198,2,170,2,failure,False,romaguera,neal,5,5,nan
+2055,48,"111fadelspringsst.\nwolfton,nj59255-3179",technician,married,secondary,False,568,True,False,cellular,2,sep,378,2,386,1,success,True,willms,evie,4,9,nan
+2062,29,"968 farr3ll gat3way \nw3st silas, a3 40738-2510",blue-collar,married,unknown,False,486,True,False,cellular,6,may,422,1,363,1,failure,False,keeling,denis,2,5,nan
+2067,41,"517dubuquelightsapt.028\nlakebrisaburgh,mo80177",housemaid,divorced,primary,False,22,True,False,cellular,18,nov,238,3,126,4,other,False,hane,orland,4,11,water
+2068,47,"5234terryrunave.\nlakeabby,hi10107",technician,married,secondary,False,1167,True,False,cellular,30,apr,968,1,87,5,failure,True,brekke,astrid,4,4,water
+2069,38,"3652 j3nnif3r trail \nn0rth d0nat0hav3n, ap 02584",management,single,tertiary,False,35,True,False,cellular,17,apr,156,1,273,3,failure,False,volkman,janelle,3,4,nan
+2070,80,"238hermanmountainst.\nwestzackary,ky79634",retired,married,secondary,False,8304,False,False,telephone,6,apr,681,1,118,11,success,False,mohr,nola,8,4,nan
+2075,69,"57518 stanton camp\nritchieshire, ct 67945-2148",retired,married,tertiary,False,473,False,False,cellular,7,jul,112,1,78,1,failure,False,price,marjolaine,6,7,nan
+2088,26,"9890 zulauf camp suit3 006\np0rt dayna, ky 14436-9278",management,single,tertiary,False,592,False,False,telephone,29,jan,145,2,164,1,other,False,skiles,levi,2,1,nan
+2096,58,"00551 kunze estates\nnew ashton, me 45934-4358",management,married,tertiary,False,9339,True,False,telephone,18,nov,52,3,172,3,other,False,o'reilly,heber,5,11,nan
+2103,39,"78832cartwrightpine\nzemlaktown,co67290-2076",services,married,secondary,False,1970,True,False,unknown,8,jun,30,1,404,2,success,False,kihn,annabelle,3,6,nan
+2104,38,"704murphykn0llssuit3448\n3astlav3rn3,pa51926",self-employed,divorced,tertiary,False,1513,False,False,cellular,7,may,330,1,342,1,failure,False,sipes,jana,3,5,nan
+2121,24,"3461 freeda cape \nsouth erynfurt, in 46987",student,single,secondary,False,508,True,False,telephone,18,may,12,3,374,1,other,False,boyer,jaiden,2,5,nan
+2122,48,"7371raeplainssuite067\nweissnatstad,wa27436-2912",unemployed,married,secondary,False,817,False,False,cellular,14,jan,517,1,282,4,success,True,hagenes,madge,4,1,flat
+2123,41,"462 schultz springs st.\nmaryjaneview, de 06987-1006",technician,divorced,secondary,False,348,True,False,cellular,7,may,225,2,275,2,failure,False,barton,jayce,4,5,nan
+2131,35,"83360 stark lak3\nr3illystad, m3 19547-0392",housemaid,married,tertiary,False,1265,True,False,cellular,15,may,326,5,179,4,failure,True,konopelski,dakota,3,5,nan
+2143,37,"70882 zulauf drive\nvernonbury, wi 12990-8922",management,married,tertiary,False,4089,True,False,cellular,2,feb,289,2,174,4,other,True,runte,alisha,3,2,nan
+2151,51,"465 pedro shoal st.\nkassulkeburgh, mi 75690",blue-collar,divorced,primary,False,602,True,False,cellular,11,may,347,1,284,2,failure,False,dare,magali,5,5,nan
+2159,33,"617flatleysummitst.\nlakeanastacioberg,hi40589-5110",services,married,secondary,False,386,False,False,cellular,12,nov,253,1,92,4,failure,True,emmerich,lacey,3,11,water
+2166,47,"399unaprairieapt.346\njulesfurt,nd06726-4151",technician,married,secondary,False,826,True,False,telephone,18,nov,195,3,112,8,other,False,fadel,barton,4,11,nan
+2176,28,"482 fl0ssi3 und3rpass apt. 284\ns0uth rup3rtt0n, wi 35265-2653",blue-collar,single,secondary,False,-46,True,False,cellular,1,sep,199,1,92,14,success,True,barrows,lenny,2,9,nan
+2181,32,"34540 kenny lodge\nkuhnhaven, or 51672-9506",blue-collar,single,secondary,False,33,True,False,cellular,18,may,125,1,368,4,failure,False,nitzsche,oceane,3,5,nan
+2185,40,"3320tevinvistaapt.065\nnorthsunny,aa54541",services,married,secondary,False,1438,True,False,cellular,6,may,207,1,351,2,failure,False,dach,herminia,4,5,nan
+2188,46,"148 ryleigh station st.\nnew antwanstad, fl 74559",admin.,single,secondary,False,1693,True,False,cellular,25,jan,137,1,97,1,success,False,ritchie,florine,4,1,nan
+2196,54,"066 sanf0rd gl3n \n3ast cristinashir3, sc 96774-8827",management,divorced,tertiary,False,26306,True,False,cellular,11,feb,27,1,84,3,failure,False,koss,kailyn,5,2,nan
+2212,34,"3363 gudrun heights \nfadeltown, va 50868-6200",management,married,tertiary,False,3301,True,False,cellular,17,jun,485,2,227,4,failure,True,wolff,larue,3,6,nan
+2213,24,"774 veda parks \ngerlachside, gu 04469",student,single,secondary,False,822,False,False,cellular,27,oct,184,1,91,2,failure,True,schumm,roxane,2,10,nan
+2215,34,"992 paucek courts st.\nmorissettebury, as 58154",management,single,unknown,False,1534,True,False,cellular,16,apr,156,1,147,7,other,False,zieme,letha,3,4,nan
+2220,33,"6671 gl0ria str33t av3.\n3ast n3dra, mp 97497-1875",blue-collar,married,secondary,False,139,True,True,cellular,18,may,732,2,291,5,failure,True,carroll,roosevelt,3,5,nan
+2235,46,"635 m00r3 inl3t suit3 925\nn0rth c0nrad, vi 98338-5827",management,single,tertiary,False,46,False,True,cellular,17,nov,80,1,152,1,failure,False,hills,kacey,4,11,nan
+2242,34,"264 krystel shoal suite 733\nnew lottie, fm 96792-3040",admin.,single,secondary,False,10,False,True,cellular,18,nov,162,1,173,3,failure,False,ankunding,valentine,3,11,nan
+2249,49,"2969juniuscliffssuite030\nyundthaven,aa29002-7671",unemployed,divorced,tertiary,False,780,False,False,cellular,8,nov,148,1,871,2,failure,False,armstrong,merle,4,11,nan
+2251,37,"6228y0stwallapt.837\nn3wgranvill3,wa39828",management,married,tertiary,False,238,False,False,cellular,3,feb,185,1,92,1,success,True,considine,moshe,3,2,nan
+2255,36,"7801 leatha avenue suite 034\nsigmundburgh, ak 56749",management,single,tertiary,False,1531,True,False,cellular,8,may,81,3,170,1,failure,False,senger,andre,3,5,nan
+2263,58,"5686migu3lcliffapt.390\n3valynm0uth,ar18495",retired,married,secondary,False,502,True,False,cellular,12,may,197,2,370,3,failure,False,von,karley,5,5,nan
+2266,55,"262torphydrivest.\neastjavonshire,tn73102",admin.,married,secondary,False,0,False,False,cellular,23,sep,180,2,238,3,success,False,rogahn,cordell,5,9,nan
+2271,34,"0568 gr33n run suit3 729\ngibs0nland, ap 73510-1284",management,single,tertiary,False,171,True,False,cellular,7,may,191,1,294,1,failure,False,kovacek,veda,3,5,nan
+2277,38,"687 kiehn villages suite 849\nmozelletown, pr 70563-5460",technician,married,secondary,False,1931,False,False,cellular,2,jun,167,1,298,10,other,False,williamson,billie,3,6,nan
+2293,34,"184pfannerstilllanest.\nlakeayanaberg,de63130",entrepreneur,married,secondary,False,2,True,True,cellular,5,may,184,1,167,6,failure,False,lowe,angelita,3,5,water
+2294,48,"2843 romaguera village ave.\ntreutelstad, pw 77278-3454",technician,married,secondary,False,197,False,True,cellular,3,feb,47,2,222,3,other,False,bashirian,abel,4,2,nan
+2302,28,"2755 littel dale suite 309\njeffreyton, pa 09248-2335",technician,single,secondary,False,769,True,False,cellular,15,may,153,1,371,2,failure,False,bradtke,lexus,2,5,nan
+2306,36,"879 doyle squares apt. 191\nwest wiley, co 15851",technician,married,tertiary,False,6,True,False,cellular,27,jan,100,1,435,1,failure,False,wintheiser,leonie,3,1,nan
+2318,53,"9265v0lkmanfallapt.661\nf33n3yshir3,va20363-5361",admin.,married,secondary,False,225,True,False,cellular,20,apr,304,1,340,1,failure,False,flatley,alexanne,5,4,nan
+2325,38,"968 shayne landing \nrempelborough, md 71979",admin.,single,secondary,False,883,True,False,cellular,12,may,95,1,327,9,other,False,o'conner,kenny,3,5,nan
+2332,30,"62627 theo station\njennyferstad, sc 74670",management,married,tertiary,False,102,True,False,cellular,5,apr,470,7,426,3,other,True,mcdermott,icie,3,4,nan
+2335,33,"521 megane trail st.\nnorth allenebury, vt 88170-8242",admin.,single,tertiary,False,490,True,False,cellular,7,may,31,1,363,2,failure,False,hegmann,gennaro,3,5,nan
+2345,26,"6489 ulises valley ave.\nkianchester, wv 83857",services,single,secondary,False,512,True,True,cellular,30,jan,206,5,239,3,failure,False,altenwerth,leanna,2,1,nan
+2359,36,"8113 harber plain suite 837\nwest johathan, vi 87620",services,single,secondary,False,417,True,False,cellular,6,feb,15,10,207,3,failure,False,hackett,geovany,3,2,flat
+2365,33,"81377 r0gahn vall3ys\nn0rth j3v0n, pa 85419-2321",admin.,divorced,secondary,False,661,True,False,cellular,18,nov,411,1,173,2,other,False,haag,dakota,3,11,nan
+2372,43,"447 v3um sh0r3s apt. 790\nw3st macyshir3, va 42687",services,single,secondary,False,3403,True,False,cellular,12,nov,707,2,97,2,success,True,emmerich,eloy,4,11,nan
+2379,42,"600 farr3ll ridg3 st.\nn3w mafalda, tx 59580",blue-collar,divorced,secondary,False,1491,True,False,cellular,6,may,203,2,334,2,failure,False,boyer,palma,4,5,nan
+2380,32,"91420 h0w3ll vill3\ncamrynt0n, m0 75900-0975",technician,single,secondary,False,6402,True,False,cellular,6,may,158,1,167,1,success,False,o'hara,norma,3,5,nan
+2396,30,"8245 ab3 vall3y apt. 231\nn3w vinc3nza, 0k 41812",management,married,tertiary,False,877,False,False,cellular,13,aug,202,1,83,5,failure,False,gerlach,breanne,3,8,nan
+2405,40,"071 wintheiser village apt. 852\nport pink, nh 15800",technician,married,secondary,False,0,True,True,cellular,26,jul,105,2,172,1,failure,False,towne,era,4,7,nan
+2429,26,"888 mario knolls \nauerborough, aa 99477-8451",student,single,secondary,False,203,False,False,cellular,16,nov,104,1,196,1,failure,False,keebler,darlene,2,11,nan
+2430,52,"05112 n0r3n3 fall\ngrim3sshir3, al 73377",technician,married,secondary,False,1818,False,True,cellular,17,nov,189,2,111,4,failure,False,thiel,alverta,5,11,nan
+2431,42,"714kundeknollsst.\neastbrendenchester,md79944-5141",unemployed,married,secondary,False,1289,False,False,cellular,15,jul,250,4,415,2,failure,True,bernhard,delmer,4,7,nan
+2433,73,"033nyaestatesapt.526\ngarthborough,ne63968-6595",retired,married,primary,False,796,False,False,cellular,23,oct,427,1,182,2,failure,True,reichel,harry,7,10,nan
+2436,51,"012shanahangat3waysuit3475\nw3stm0uth,0h63229",technician,married,secondary,False,117,False,False,cellular,24,aug,467,2,88,4,other,True,kohler,narciso,5,8,nan
+2438,39,"485 bahringer falls st.\nport roel, id 93412-2926",management,married,tertiary,False,691,True,True,cellular,16,apr,517,1,255,1,failure,False,zieme,haylie,3,4,nan
+2444,35,"0762 tillman gr33ns av3.\nwilh3lmsid3, n3 93628",management,married,secondary,False,724,True,False,cellular,14,jul,287,2,415,1,failure,True,grady,alexander,3,7,nan
+2446,30,"54121 3vans und3rpass\ns0uth sydni3b3rg, fl 58990",blue-collar,married,secondary,False,-28,True,False,cellular,18,may,284,2,371,1,failure,False,romaguera,leola,3,5,nan
+2447,46,"769 kessler stream st.\nwaterstown, ak 57825",blue-collar,married,primary,False,665,False,False,cellular,30,jan,89,4,235,2,failure,False,pollich,tony,4,1,nan
+2449,36,"883 enrique expressway apt. 760\neast antonioborough, ms 62152",management,married,tertiary,False,925,False,False,cellular,14,dec,321,3,189,4,success,True,homenick,aleen,3,12,nan
+2460,26,"1597 cronin drives apt. 270\nnorth hayleyside, ks 21998-7905",blue-collar,single,primary,False,155,True,False,cellular,29,jan,291,1,244,4,failure,False,hessel,howard,2,1,nan
+2471,22,"28309 everardo gardens\nsouth krystalbury, or 02048-0715",student,single,secondary,False,2488,False,False,cellular,8,nov,449,2,38,10,other,True,runte,alexa,2,11,nan
+2474,32,"260 ryan extensions st.\njacobsfurt, co 62059",management,married,tertiary,False,1667,True,False,cellular,18,nov,164,2,179,3,failure,False,pagac,raleigh,3,11,nan
+2478,50,"750schusterextensionsst.\nportviolette,mp02798",admin.,divorced,secondary,False,769,False,False,cellular,28,jul,72,2,363,4,failure,False,haley,ali,5,7,nan
+2486,50,"4832jalynmeadowsuite292\nsybleville,nd91200",unknown,married,unknown,False,558,False,False,cellular,9,jul,464,1,683,6,failure,True,beer,albertha,5,7,nan
+2524,35,"75199 amanda trail\nwest leraville, vi 67093-2266",blue-collar,married,secondary,False,1257,True,False,cellular,20,apr,93,3,329,7,failure,False,schmitt,gina,3,4,nan
+2525,55,"035 lester oval st.\nwest crystelstad, in 09087-9538",blue-collar,married,unknown,False,23,False,False,cellular,30,jan,143,1,2,3,other,False,schimmel,icie,5,1,nan
+2529,48,"960ryanrapidst.\nsouthlora,ut23676-5360",management,single,tertiary,False,8106,False,False,unknown,17,nov,125,1,111,3,failure,False,waters,aletha,4,11,nan
+2536,56,"99675billi3p0rts\nn0rthcryst3lf0rt,m361511",entrepreneur,divorced,primary,False,29,False,False,cellular,29,jan,52,2,227,1,failure,False,skiles,amara,5,1,nan
+2539,44,"192jennyferriverapt.988\nstammbury,nc27252-7965",technician,divorced,secondary,False,14,False,False,cellular,13,nov,167,1,92,1,success,True,witting,laverna,4,11,nan
+2540,31,"60090 mack lodge\nannabelfort, tn 54995-0663",management,married,tertiary,False,4148,True,False,cellular,21,nov,316,3,99,9,other,True,klocko,alexandria,3,11,nan
+2555,49,"97389 aur3li3 highway\ns0uth chynastad, ar 93840-5297",unemployed,married,tertiary,False,377,False,False,cellular,22,may,158,1,59,2,failure,False,considine,aliya,4,5,nan
+2556,34,"653 mccullough road apt. 564\nsouth omaland, hi 04249",admin.,divorced,secondary,False,479,True,False,cellular,12,may,515,1,350,5,failure,True,heaney,georgiana,3,5,nan
+2560,44,"3754 jack cape apt. 538\nnew judy, nm 04802-0710",blue-collar,married,secondary,False,1071,True,False,cellular,11,may,143,3,357,1,failure,False,hayes,noemie,4,5,nan
+2563,55,"396kingp0rtst.\nk33lingch3st3r,il32482-9629",admin.,married,secondary,False,865,True,False,cellular,17,apr,85,1,151,1,failure,False,cole,cordelia,5,4,nan
+2583,52,"80832 morissette centers\nbarrowsville, pr 52603-4866",technician,married,tertiary,False,2557,False,False,cellular,28,jan,134,5,204,2,success,True,ankunding,nya,5,1,nan
+2596,32,"7695kirlinwalks\ns0uthth30,0k34234",technician,married,secondary,False,4,False,False,cellular,4,feb,145,2,260,4,failure,False,dubuque,dale,3,2,nan
+2598,36,"59517 smitham valley\nstiedemanntown, tn 73725-4275",blue-collar,single,primary,False,367,False,False,cellular,2,feb,217,1,221,1,failure,False,bergstrom,gudrun,3,2,nan
+2613,36,"654 carm3l0 flat st.\nc0rin3t0n, vi 47601",admin.,married,secondary,False,725,True,False,cellular,27,feb,123,3,99,8,failure,False,stiedemann,alycia,3,2,nan
+2615,45,"300 dubuqu3 lights suit3 636\nn3w j3ff3rystad, ak 03880-9607",blue-collar,married,secondary,False,776,True,False,cellular,6,feb,232,4,253,1,failure,False,yost,maryse,4,2,nan
+2620,28,"965 bartoletti plains st.\nhowellburgh, mi 72090",technician,single,secondary,False,1453,True,False,cellular,12,may,246,1,343,1,other,False,koch,mason,2,5,flat
+2640,27,"619wolfunderpassst.\nolenhaven,de53155-7625",admin.,single,tertiary,False,3672,True,False,cellular,15,may,157,2,351,5,failure,False,sporer,johnny,2,5,nan
+2653,45,"8518 monroe ranch suite 880\ncielofort, al 64938",blue-collar,single,secondary,False,0,True,False,cellular,26,apr,1472,1,192,4,failure,True,hirthe,raymond,4,4,nan
+2654,36,"577 schultz h0ll0w st.\naishap0rt, nd 85237",management,married,tertiary,False,1133,True,False,cellular,4,aug,293,1,181,2,other,True,wintheiser,magdalena,3,8,nan
+2659,59,"366torphytrailst.\nkatelynnside,az70374-1261",admin.,married,secondary,False,92,True,False,cellular,12,may,139,2,350,1,failure,False,cartwright,laurine,5,5,nan
+2665,27,"905orionvistast.\nhillltown,vi29151",student,single,tertiary,False,3733,True,False,cellular,22,may,198,1,98,6,success,True,wuckert,sterling,2,5,relief
+2670,46,"45134 dani3lla parkway\ngl3nburgh, 0h 92777",admin.,married,secondary,False,0,True,True,cellular,20,apr,239,2,259,2,failure,False,brakus,maryam,4,4,nan
+2673,35,"033 padberg point apt. 880\nsouth mohamedhaven, wy 53523",self-employed,married,tertiary,False,560,True,False,cellular,2,apr,58,1,136,1,failure,False,hansen,sidney,3,4,nan
+2675,29,"1710 th0ra f3rry suit3 452\nn0rth n3wt0nstad, wi 34225",management,single,tertiary,False,437,False,False,cellular,5,aug,504,1,92,1,success,True,fritsch,edward,2,8,nan
+2678,74,"65983 turcotte viaduct\ngorczanyburgh, ak 75570-4769",retired,married,secondary,False,935,False,False,cellular,26,jan,100,1,104,1,other,False,leuschke,dixie,7,1,nan
+2691,57,"461 federico village apt. 482\nnew oleta, pw 67748-9038",blue-collar,married,secondary,False,1521,True,True,cellular,18,may,102,2,178,5,failure,False,dickinson,carleton,5,5,nan
+2692,34,"1107 bergnaum union apt. 597\nport rooseveltfurt, wi 57346-3044",management,married,tertiary,False,1310,False,False,telephone,30,jan,521,3,158,7,other,False,stamm,emiliano,3,1,nan
+2696,55,"18606abshireshore\nparkermouth,me01610-0017",management,divorced,tertiary,False,9756,True,False,cellular,5,jun,103,2,95,1,other,True,jast,kaden,5,6,nan
+2699,37,"1715 eulah extensions apt. 540\nbogisichburgh, nh 80450-3902",blue-collar,married,primary,False,403,True,False,cellular,8,may,318,2,338,1,success,False,lakin,leone,3,5,nan
+2701,45,"35677 lukas bypass\ngilbertville, mp 14869",technician,divorced,secondary,False,809,True,False,cellular,13,may,155,2,363,4,failure,False,d'amore,elissa,4,5,nan
+2708,33,"27316kirlinranch\nsouthgiaburgh,wy30988",management,married,tertiary,False,287,True,False,cellular,15,may,199,2,274,3,other,False,lockman,camilla,3,5,nan
+2711,47,"416 raynor walks apt. 906\nhirtheview, ok 70762",unknown,married,unknown,False,677,False,False,cellular,7,aug,384,1,99,4,success,False,weissnat,cathy,4,8,nan
+2714,47,"32657 adolf camp\nchelseyfurt, ca 67664-7588",technician,divorced,tertiary,False,477,True,False,telephone,7,may,973,1,366,1,failure,False,bernier,luna,4,5,nan
+2719,32,"760 chesley course suite 145\nnorth trinity, gu 33954-0749",technician,single,secondary,False,230,True,False,cellular,18,may,442,1,266,8,failure,True,becker,emanuel,3,5,nan
+2728,60,"6424 von heights \nnew abdiel, id 53307",admin.,married,secondary,False,-396,True,False,cellular,11,may,443,1,350,1,failure,False,windler,alexandre,6,5,nan
+2745,34,"929 rud0lph m3ad0ws st.\n3vanhav3n, fl 77410-9492",management,married,tertiary,False,1657,True,False,cellular,18,may,566,2,356,4,failure,False,barton,walton,3,5,nan
+2749,39,"613heidiestatesst.\nwestkristopherfort,ma76128-8306",technician,married,secondary,False,994,False,False,cellular,5,feb,221,1,241,1,failure,False,jacobi,jevon,3,2,nan
+2759,34,"1424 3li3z3r 3xt3nsi0ns \nd3marcussid3, pr 04017",blue-collar,married,secondary,False,1221,True,False,cellular,6,may,182,1,90,8,failure,False,zemlak,katelyn,3,5,nan
+2764,42,"37695 devan garden\nport bernhard, md 18307",blue-collar,married,secondary,False,2157,True,False,cellular,13,may,149,1,364,2,failure,False,harris,keara,4,5,nan
+2776,37,"48947idameadows\ndavischester,md39984",management,married,primary,False,22856,False,False,cellular,2,jul,154,1,388,1,failure,False,keeling,hermann,3,7,nan
+2784,35,"8292skil3sp0rtsav3.\nc3c3lialand,wi94180",technician,single,secondary,False,5731,True,False,cellular,4,may,164,2,167,4,other,False,gulgowski,erica,3,5,nan
+2796,56,"690470linmissi0n\n3astamiyaf0rt,pr85798-9408",admin.,married,secondary,False,1270,True,False,cellular,17,nov,80,2,165,2,other,False,douglas,ari,5,11,nan
+2812,41,"727 schultz court st.\nleviview, ut 54332-6524",admin.,single,secondary,False,748,False,False,telephone,21,nov,94,7,130,3,other,False,walter,eugene,4,11,nan
+2818,57,"4048w3b3rl0dg3av3.\ncruickshankvill3,vi14817",entrepreneur,divorced,secondary,True,25,True,False,cellular,11,may,652,1,370,4,other,False,boehm,providenci,5,5,nan
+2819,26,"2923sheridanstationave.\nportjaylin,or70043-5319",admin.,single,secondary,False,96,True,False,cellular,13,may,612,2,348,3,other,False,becker,alisha,2,5,nan
+2826,39,"59493o'haracanyon\nsouthjosue,dc31642",management,married,tertiary,False,763,True,False,cellular,11,may,877,7,300,2,other,True,dickens,amparo,3,5,relief
+2832,36,"5568 h3an3y sh0r3s av3.\nw3st d3annam0uth, vt 36588",management,married,tertiary,False,1582,False,False,telephone,3,feb,26,2,197,1,failure,False,cummings,emily,3,2,nan
+2837,43,"0051hammesharborsave.\nlolitaview,ct75092",blue-collar,married,secondary,False,699,True,True,cellular,20,nov,1258,2,122,2,other,True,powlowski,aleen,4,11,nan
+2846,47,"23095 antonio fords\nnew ozellamouth, md 24579-5684",blue-collar,married,primary,False,881,True,False,cellular,14,may,143,1,370,2,failure,False,kertzmann,shayne,4,5,nan
+2847,38,"2122 kris stravenue apt. 710\ncollinstown, wy 28711-5239",technician,married,secondary,False,6728,False,False,cellular,25,nov,232,1,96,4,success,True,jenkins,ryan,3,11,nan
+2849,40,"123 eloy ranch st.\nrichiemouth, ri 41886",self-employed,married,secondary,False,167,True,True,cellular,8,may,380,4,295,1,failure,False,gislason,mohamed,4,5,nan
+2851,32,"06481 hyatt n3ck\nd3lfinap0rt, mi 49855",technician,single,tertiary,False,1625,False,False,cellular,22,may,796,1,109,1,failure,True,rau,destiny,3,5,nan
+2859,23,"636 r0wan c0rn3rs st.\nlak3 mariann3burgh, mh 95876",blue-collar,single,primary,False,8627,True,False,cellular,15,may,169,1,346,1,failure,False,eichmann,gerhard,2,5,nan
+2860,31,"7788 deon mission apt. 649\ngerrystad, pw 94614-3214",management,single,tertiary,False,2590,False,False,cellular,23,sep,103,2,484,2,other,False,mann,ottis,3,9,nan
+2879,61,"32426 3ricka c0rn3rs\nfish3rburgh, la 30076-9036",housemaid,married,primary,False,848,False,False,cellular,27,apr,605,1,187,1,other,False,kerluke,tabitha,6,4,nan
+2880,43,"5218 o'connell alley suite 569\nkozeyburgh, ri 02125",management,married,secondary,False,481,True,False,telephone,18,nov,164,1,110,2,other,False,torphy,cecelia,4,11,nan
+2900,32,"3754 arnoldo mount ave.\nmillermouth, nj 13382-7749",management,single,tertiary,False,697,False,False,cellular,7,aug,119,1,99,3,failure,False,jewess,niko,3,8,nan
+2904,39,"81909 eduardo gardens\nziemechester, de 66660",management,married,tertiary,False,894,True,False,cellular,20,apr,491,1,326,1,other,False,beahan,bette,3,4,nan
+2914,37,"8914 lang parkways av3.\nn0rth christafurt, d3 82782",blue-collar,married,primary,False,655,True,False,cellular,5,feb,127,2,258,4,failure,False,hane,patricia,3,2,nan
+2915,56,"581 v0n vista \nw0lft0n, ct 84700",retired,divorced,primary,False,694,False,False,cellular,29,jan,144,1,102,1,other,True,schumm,junior,5,1,nan
+2917,41,"8981dollybypasssuite336\npadbergville,ma24465-3899",technician,single,tertiary,False,1646,True,False,cellular,4,feb,261,1,184,6,success,True,haley,jerry,4,2,nan
+2918,29,"796 maggi0 fr33way suit3 985\np0rt ici3vi3w, a3 69920",admin.,single,tertiary,False,14,False,False,cellular,29,sep,87,1,120,1,failure,False,ondricka,ewald,2,9,nan
+2923,39,"159 bednar court \ndrewside, aa 78261",admin.,married,secondary,False,260,True,False,cellular,17,apr,146,1,281,1,failure,False,fay,myron,3,4,nan
+2924,49,"3491g0dfr3yh0ll0w\nw3stlisat0wn,gu83238",blue-collar,married,secondary,False,2039,True,False,cellular,6,may,451,1,169,2,failure,True,langosh,mireille,4,5,nan
+2934,41,"175 reinger expressway apt. 158\nlake brendanfurt, tx 91835-3358",services,married,unknown,False,88,True,False,cellular,11,may,105,1,336,2,failure,False,quitzon,blaze,4,5,water
+2949,46,"365 blanda juncti0n apt. 622\nflatl3yt0wn, wi 47426-4150",blue-collar,married,primary,False,147,True,False,cellular,6,may,116,2,169,3,failure,False,johns,jacinto,4,5,nan
+2951,36,"57861 runte point\nretaland, de 53160",technician,married,secondary,False,55,True,False,cellular,13,may,38,2,369,4,failure,False,miller,doug,3,5,nan
+2956,35,"1111 turc0tt3 caus3way \np0rt alan, nd 19436-4692",management,married,tertiary,False,552,True,True,cellular,19,nov,314,2,124,1,failure,False,hammes,aylin,3,11,nan
+2961,32,"201 hayes mall st.\nsouth mariellefurt, ga 46732-4112",blue-collar,married,secondary,False,1787,True,False,cellular,12,may,87,4,357,4,failure,False,kovacek,elroy,3,5,nan
+2963,31,"8952 b0d3 inl3t \ns0uth jakaylaf0rt, fm 62098",management,single,tertiary,False,12569,False,False,cellular,9,sep,344,1,295,1,failure,True,ruecker,forest,3,9,nan
+2968,46,"560 rau isl3 \nlak3 tr3, nc 22626",blue-collar,married,secondary,False,4855,True,False,cellular,10,aug,1529,1,397,1,failure,False,steuber,filomena,4,8,nan
+2969,47,"8101 jacobs harbor \nweissnatshire, in 67559-1734",technician,married,tertiary,False,2408,False,False,cellular,12,aug,236,1,104,1,success,False,bruen,berniece,4,8,nan
+2971,37,"59765 heloise lodge\nbreannemouth, ga 44755",blue-collar,married,secondary,False,346,True,False,cellular,17,apr,390,1,316,1,failure,False,stroman,ernesto,3,4,nan
+2977,38,"6322 august curv3 \nj3ani3land, vi 60565-4787",entrepreneur,married,tertiary,False,1514,False,True,cellular,21,nov,160,3,120,3,failure,False,sawayn,nova,3,11,nan
+2988,38,"85783 adams pines\nlake terryshire, sc 75541",entrepreneur,single,secondary,False,2543,False,False,cellular,10,aug,223,1,414,4,failure,True,borer,marques,3,8,water
+2990,56,"1616l0urd3sspring\nrayn0rf0rt,fl07200",blue-collar,married,primary,False,828,True,False,cellular,14,may,214,1,349,1,failure,False,breitenberg,reilly,5,5,nan
+2992,47,"55581 ernesto ridges\nwest bayleeview, mn 37810-9931",housemaid,married,secondary,False,3940,True,False,cellular,9,nov,171,2,96,5,success,False,cummerata,kathleen,4,11,nan
+3004,37,"15015alejandraford\nbeierside,ae42849-2639",admin.,married,secondary,False,7,True,False,cellular,27,may,224,7,105,1,other,False,parisian,janelle,3,5,nan
+3005,60,"10411krispin3s\ns0uthcaylam0uth,mp83636",admin.,married,secondary,False,3735,False,False,cellular,22,dec,190,1,188,9,success,True,satterfield,jason,6,12,nan
+3007,44,"289 abbott ferry \nwest nolaview, ia 01598-1847",blue-collar,married,secondary,False,508,True,False,cellular,20,apr,222,1,154,1,failure,False,wolf,wyatt,4,4,nan
+3008,48,"3356 shanelle tunnel suite 352\nnorth wanda, or 08545-6302",management,married,unknown,False,0,True,False,cellular,8,may,612,1,344,1,other,False,harvey,opal,4,5,nan
+3021,43,"418 zieme lake suite 312\nwest elizabeth, nd 58233-7354",blue-collar,married,primary,False,60,False,False,cellular,8,may,487,2,367,2,other,False,bechtelar,cierra,4,5,water
+3022,37,"654z03ymissi0nst.\nsp0r3rshir3,wi45396",blue-collar,married,secondary,False,342,True,False,cellular,12,may,340,2,175,1,failure,False,little,gladyce,3,5,nan
+3023,36,"927 leonard street \namandafurt, ak 11828-7021",blue-collar,single,tertiary,False,1830,False,False,cellular,14,oct,183,1,91,11,failure,False,okuneva,samson,3,10,nan
+3025,38,"7501 kal3b plains apt. 446\nsusanashir3, c0 64968",management,single,tertiary,False,16957,True,False,telephone,29,jan,208,1,247,2,failure,False,koelpin,jessika,3,1,flat
+3027,40,"33409 spencer forks\nnew ciaraberg, mh 48931",management,married,tertiary,False,0,False,False,cellular,10,nov,147,1,96,8,success,True,gislason,rickie,4,11,nan
+3033,50,"290l3hn3rsquar3st.\nlak3cas3ybury,nd93005-6398",technician,divorced,secondary,False,-54,True,True,cellular,13,may,698,2,292,1,failure,True,schuster,rachael,5,5,nan
+3035,55,"6614simonisprairieapt.433\nwesteldoraside,mh27622-4127",unemployed,married,tertiary,False,4809,True,False,cellular,21,nov,223,2,186,3,other,False,koch,hillard,5,11,nan
+3040,34,"5125 stokes summit ave.\nnew kaylin, ms 07774-0666",admin.,married,secondary,False,2374,True,False,cellular,9,nov,161,1,209,2,failure,True,hodkiewicz,rose,3,11,nan
+3041,32,"75740 pr3d0vic vall3y\nw3hn3rbury, fl 82977-7761",admin.,single,secondary,False,92,True,False,cellular,18,may,110,1,315,2,failure,False,marquardt,blaze,3,5,nan
+3043,40,"398emmacurvesuite432\njermainland,mi07816-3840",blue-collar,married,primary,False,1397,True,False,telephone,12,may,58,2,334,1,failure,False,volkman,emiliano,4,5,nan
+3048,35,"62171 p0llich 0v3rpass\nb3rni3rvi3w, id 69682-7950",services,single,secondary,False,414,True,False,cellular,20,apr,11,5,319,2,other,False,lubowitz,evert,3,4,nan
+3058,38,"134 ward shore suite 437\nnorth roxane, id 56428-2627",technician,married,secondary,False,4030,True,False,cellular,19,nov,75,2,177,5,failure,False,rice,minnie,3,11,nan
+3060,52,"7997 kane forges \nnorth jacquelynburgh, ca 96629-1801",admin.,married,secondary,False,0,False,False,cellular,22,apr,91,2,275,1,failure,False,larson,alejandra,5,4,nan
+3064,43,"08293 volkman run\nflavieton, sd 37357",management,single,tertiary,False,1696,True,False,cellular,26,aug,257,1,474,3,failure,True,powlowski,otilia,4,8,nan
+3066,34,"4841 christ rapids suit3 238\nst0lt3nb3rgbury, la 77763",blue-collar,married,secondary,False,856,True,False,cellular,20,apr,470,1,150,5,other,False,bergstrom,yesenia,3,4,nan
+3071,34,"312rauparkwaysst.\nabshir3t0wn,az74689",technician,single,secondary,False,347,True,False,cellular,6,feb,154,2,197,6,failure,False,mcclure,gene,3,2,nan
+3088,31,"284 brennon alley apt. 581\nlake sally, in 76642-0873",technician,single,secondary,False,2544,False,False,cellular,15,jul,252,1,184,3,success,True,bradtke,mortimer,3,7,water
+3092,46,"632mattc0urtsst.\nm00r3land,mn05874-4495",management,married,tertiary,False,523,True,False,cellular,6,may,105,4,366,2,failure,False,koch,terrance,4,5,nan
+3094,56,"36281mcglynnridge\nwilfredshire,id01397-5707",retired,married,secondary,False,3948,False,False,cellular,3,apr,484,1,135,3,failure,False,schroeder,harley,5,4,nan
+3100,66,"29462 graciela forge\nport maximillia, sd 72797-0947",retired,married,primary,False,747,False,False,telephone,28,jan,203,3,93,1,failure,False,murphy,anita,6,1,nan
+3115,39,"1689 0ral vall3y av3.\nw3st granvill3, ar 53365-0271",self-employed,married,tertiary,False,585,True,False,cellular,18,nov,48,1,181,3,failure,False,langworth,avery,3,11,nan
+3119,28,"5442 elmo garden \ngoyettemouth, gu 38529",technician,married,secondary,False,232,True,True,cellular,29,jan,72,1,261,1,failure,False,halvorson,arno,2,1,nan
+3132,53,"79856 jair0 isl3\nn0rth quincy, pr 13206",self-employed,married,tertiary,False,451,True,False,cellular,2,feb,125,1,249,2,failure,False,marks,jada,5,2,nan
+3134,47,"35305bartolettiroute\nhowellville,co07686-6837",self-employed,divorced,secondary,False,8515,True,False,unknown,20,nov,14,7,112,4,other,False,bartell,shany,4,11,nan
+3141,32,"5155maverickroadave.\nlakereanna,mn14295",admin.,single,secondary,False,678,True,False,cellular,4,feb,1579,1,246,4,failure,True,o'connell,isabelle,3,2,water
+3145,45,"3539blockmall\nnorthjohnchester,ga60355",technician,divorced,secondary,False,976,True,False,cellular,17,apr,183,1,338,2,failure,False,kunze,roberta,4,4,nan
+3148,36,"9297rennercourseapt.733\nnorthaustyn,vi32490-5646",admin.,single,secondary,False,1927,True,False,cellular,18,nov,288,1,137,1,other,False,wiegand,jalen,3,11,nan
+3157,75,"8567 terence meadow ave.\nport brandymouth, il 98811-5804",blue-collar,married,secondary,False,6053,False,False,cellular,11,feb,865,2,190,1,failure,False,koepp,daija,7,2,nan
+3159,35,"892 kub und3rpass st.\n3ast natashat0n, ca 76604-7082",admin.,married,secondary,False,725,True,False,cellular,20,nov,219,7,133,1,failure,False,cummerata,josue,3,11,nan
+3167,50,"879 hugh knolls st.\nwest majorshire, pa 55607",entrepreneur,married,secondary,False,806,True,True,cellular,7,may,141,8,297,2,other,False,parisian,buddy,5,5,nan
+3172,55,"2563martasquaressuite838\nwalshbury,wy97832-5579",management,divorced,tertiary,False,481,True,False,telephone,8,may,147,2,298,3,failure,False,weimann,federico,5,5,nan
+3176,28,"8623 sauer parkways ave.\nlake ruthie, me 85146",admin.,single,secondary,False,4745,False,False,telephone,12,may,360,1,181,5,success,True,beatty,savanah,2,5,water
+3181,33,"485 emely cliffs suite 870\nwest nikkihaven, pw 47439",blue-collar,married,secondary,False,331,True,False,cellular,14,may,178,7,365,5,other,False,thompson,josie,3,5,nan
+3202,79,"11538 jamil junctions\nlutherbury, ma 95248",retired,married,primary,False,8556,False,False,telephone,18,jan,326,2,272,2,success,True,abshire,bailey,7,1,nan
+3205,77,"3581 mitch3ll cr0ssr0ad apt. 509\njust0nm0uth, wi 68506-5264",retired,married,primary,False,680,False,False,telephone,27,nov,341,4,94,3,failure,False,adams,abigayle,7,11,nan
+3231,29,"006 luigi tunn3l suit3 409\ndubuqu3sid3, ri 30215-8269",admin.,married,secondary,False,22171,True,False,cellular,18,may,44,1,355,3,failure,False,bernhard,elenor,2,5,nan
+3232,56,"535 jacobs shoals \nwest madisonview, ma 85893",management,married,tertiary,False,856,True,True,cellular,4,feb,70,4,7,7,other,False,koepp,michaela,5,2,nan
+3235,32,"3419 j3na stati0n apt. 378\nl0nburgh, tn 72339-3395",blue-collar,single,secondary,False,53,True,False,cellular,18,nov,276,1,195,1,failure,False,wyman,torrey,3,11,nan
+3236,43,"770 wa3lchi land st.\n3ast j0rg3shir3, ak 99074",blue-collar,married,primary,False,2519,True,False,cellular,16,apr,257,2,146,9,other,False,kling,deborah,4,4,nan
+3239,52,"005 katlynn estate st.\nnorth alishamouth, ky 58711",blue-collar,married,secondary,False,2087,True,False,cellular,31,aug,267,1,474,1,failure,True,friesen,dannie,5,8,nan
+3243,27,"9372 ona throughway suite 185\nwest loyview, pw 02699-0015",management,single,tertiary,False,390,False,False,cellular,28,oct,190,1,82,1,success,False,larson,kane,2,10,nan
+3250,54,"598 ebba mount st.\ncliftonshire, ms 21448-1129",technician,married,tertiary,False,876,False,False,cellular,27,oct,269,3,541,3,success,True,maggio,martine,5,10,nan
+3256,36,"074gerlachcenterapt.435\ncoletown,la23874",management,married,tertiary,False,495,False,False,cellular,12,mar,213,3,182,6,success,True,dietrich,jana,3,3,nan
+3260,45,"03552 sierra locks\ncroninchester, sc 22065",admin.,married,primary,False,542,False,False,cellular,11,may,8,5,350,3,other,False,sporer,jerrod,4,5,nan
+3263,35,"149 schust3r l0af st.\ns0uth 3ladi0, va 59026",management,married,tertiary,False,24,True,False,cellular,8,apr,169,1,231,2,failure,False,bednar,dylan,3,4,nan
+3266,45,"239 br3it3nb3rg stati0n \np0rt l30nardbury, mp 40652",blue-collar,married,secondary,False,192,True,False,cellular,13,may,154,5,176,1,other,False,grimes,hunter,4,5,nan
+3270,35,"8149 b3rtha divid3 av3.\nn0rth 3rika, ak 19400-1623",blue-collar,married,secondary,False,262,False,False,cellular,2,jul,96,2,109,4,success,False,corwin,jodie,3,7,nan
+3272,44,"723 nader canyon apt. 931\nquigleyfort, hi 67840",services,single,secondary,False,5045,True,False,cellular,21,nov,20,6,175,15,other,False,dare,rebekah,4,11,relief
+3278,59,"889 ike underpass suite 933\ntitoside, va 16729-3725",entrepreneur,married,primary,False,0,False,False,telephone,19,nov,207,2,153,1,failure,False,champlin,sandra,5,11,nan
+3281,33,"767 harv3y cany0n st.\n3ast yasmin, wv 63721-0558",technician,single,secondary,False,1279,True,False,cellular,18,may,239,2,349,3,success,False,reichert,mireya,3,5,nan
+3287,30,"58916smithamgrove\nchristyton,ma39370",admin.,single,secondary,False,127,True,False,cellular,18,may,16,6,368,1,other,False,mcglynn,andre,3,5,nan
+3295,32,"2772gerlachrueave.\nturnerborough,mh35446-0938",technician,divorced,secondary,False,202,True,False,cellular,4,feb,429,1,201,1,failure,False,fritsch,floyd,3,2,nan
+3297,28,"089 ubaldo port st.\npattiefort, nv 26789",self-employed,single,tertiary,False,442,False,False,cellular,19,jun,474,3,95,3,other,True,kertzmann,kelli,2,6,nan
+3298,27,"04025kreigergarden\nemmittfurt,fm12076-9252",technician,single,tertiary,False,808,True,False,cellular,15,may,578,1,364,1,other,False,stiedemann,helena,2,5,nan
+3299,38,"4491gutkowskidrivesapt.564\nluettgentown,or39353-0836",management,single,tertiary,False,427,True,False,cellular,6,may,17,3,169,2,failure,False,jast,myles,3,5,nan
+3301,60,"5063 sawayn summit apt. 965\ns0uth r3annahav3n, md 43624-3604",services,married,tertiary,False,4256,True,False,cellular,16,aug,239,3,761,1,other,True,doyle,tierra,6,8,nan
+3303,52,"958 auer greens st.\njakubowskiview, mt 84376",services,divorced,secondary,False,238,True,False,cellular,6,may,101,1,362,5,other,False,green,dino,5,5,nan
+3304,64,"007 durgan w3ll \n3ast 3milian0burgh, 0h 91153-9941",retired,married,tertiary,False,846,False,False,cellular,11,feb,671,1,181,3,failure,True,jacobi,toni,6,2,nan
+3314,35,"1715 padberg lodge ave.\nemanuelchester, nm 39304",self-employed,married,tertiary,False,980,False,False,cellular,2,aug,428,2,336,6,failure,False,farrell,louisa,3,8,nan
+3315,33,"24251 bruce forks\nnorth litzyburgh, pw 73548-1757",admin.,married,tertiary,False,79,True,False,cellular,22,oct,249,2,335,2,failure,True,reichel,kitty,3,10,nan
+3317,25,"9508 rohan pine \neast mertie, mi 91539",management,single,tertiary,False,808,False,False,cellular,18,sep,267,2,114,2,failure,True,koch,mollie,2,9,nan
+3331,53,"502cristianland\nwilliamsonburgh,tn19427-5460",management,married,unknown,False,2240,True,False,cellular,2,jun,282,2,385,1,success,True,considine,xander,5,6,nan
+3332,31,"4272 nienow crossroad ave.\nwatersmouth, ky 98374",management,married,tertiary,False,22546,True,False,cellular,14,may,8,6,267,4,failure,False,mcclure,jude,3,5,nan
+3335,29,"0503 sant0s ways apt. 784\nn3w aur3li3sid3, mh 24428",blue-collar,married,secondary,False,228,True,False,cellular,11,may,12,8,342,9,failure,False,mann,estelle,2,5,nan
+3343,40,"668 ike glens st.\nwest coy, sd 56642",services,married,secondary,False,-378,True,True,cellular,13,may,541,1,295,6,failure,False,larkin,katelin,4,5,nan
+3346,55,"1462 rippin extension ave.\neast kali, md 27334",admin.,married,secondary,False,865,True,False,cellular,27,oct,96,1,111,3,failure,False,nienow,alexanne,5,10,nan
+3350,31,"6854 chan3ll3 flat apt. 957\nharb3rb0r0ugh, fl 85933",admin.,married,secondary,False,389,True,False,cellular,7,dec,69,1,185,2,failure,False,boyer,jeanette,3,12,nan
+3365,34,"2712zorafallave.\npricechester,ap80960",entrepreneur,married,secondary,False,1847,True,False,cellular,9,apr,543,3,321,6,failure,False,dietrich,serenity,3,4,nan
+3368,57,"91278 kailee shores\nlake ryann, wi 15408-0569",services,divorced,secondary,False,4664,False,False,cellular,21,nov,22,4,114,1,failure,False,vandervort,wade,5,11,water
+3370,31,"957 daugherty circle st.\nwest kameron, hi 04923",student,single,tertiary,False,64,False,False,cellular,15,sep,208,1,105,2,success,False,kling,melvin,3,9,nan
+3371,49,"51387 bridgette extensions\nnew dewittbury, ap 42306-4271",unemployed,married,tertiary,False,-471,True,False,cellular,20,nov,77,3,185,7,failure,False,walter,tara,4,11,nan
+3374,33,"28090 willms c0v3s\ns0uth fl0r3nci0stad, nj 11669-1624",blue-collar,married,secondary,False,26,True,False,cellular,17,apr,342,3,332,1,other,False,kovacek,billie,3,4,nan
+3377,45,"194 hal3y springs st.\n3ast sammyp0rt, wv 58560-0423",admin.,married,unknown,False,2033,False,False,cellular,30,nov,123,1,186,4,failure,False,mclaughlin,william,4,11,nan
+3379,56,"3889 rupert neck ave.\nbeerside, mh 33661",admin.,divorced,unknown,False,789,True,False,cellular,8,may,1022,1,360,2,failure,False,padberg,eloisa,5,5,nan
+3380,33,"598 treutel ford st.\nmontemouth, ma 26555",blue-collar,single,secondary,False,142,True,False,cellular,14,may,123,1,360,3,other,False,bednar,herminio,3,5,nan
+3382,37,"395 c3l3stin0 cliffs st.\nh0pp3b0r0ugh, md 44828",blue-collar,married,unknown,False,897,True,False,cellular,13,apr,119,2,280,2,failure,False,auer,rebeca,3,4,nan
+3385,38,"685 irving lodge st.\ncandaceview, nh 57937",unknown,single,tertiary,False,0,False,False,cellular,11,sep,260,3,95,3,success,True,kertzmann,jerry,3,9,nan
+3394,46,"1187 frami courts ave.\ndachshire, ks 30370",services,married,secondary,False,4,False,False,cellular,30,apr,268,1,261,5,other,True,hagenes,sage,4,4,nan
+3407,40,"169 mohammed springs st.\nmitchelland, nh 10246-0422",management,divorced,tertiary,False,502,True,False,cellular,3,feb,267,4,270,3,other,False,zulauf,astrid,4,2,nan
+3408,38,"31769 nic0las c0urt\nn0rth 3lin0r3m0uth, hi 65381",management,single,tertiary,False,8669,True,False,telephone,20,apr,5,3,150,6,failure,False,walsh,allene,3,4,nan
+3412,45,"2790rodriguezpikesuite354\nvalentinfort,sd05005-6518",admin.,married,secondary,False,72,True,True,cellular,15,may,262,2,352,2,failure,False,kassulke,evan,4,5,nan
+3419,60,"4061 felipe station suite 514\nschinnershire, il 53015-1701",admin.,married,secondary,False,2552,False,True,cellular,30,jan,255,2,2,4,other,False,wunsch,vergie,6,1,nan
+3426,40,"8617 paucek islands ave.\neast brendon, vi 99695-2598",self-employed,married,primary,False,2077,True,False,cellular,13,may,363,1,173,24,other,False,rohan,reymundo,4,5,nan
+3429,41,"61243 jessie view\nport trinityhaven, ny 07443-9618",blue-collar,married,primary,False,7735,True,False,cellular,20,nov,220,1,190,1,failure,False,keebler,melvina,4,11,nan
+3433,58,"7398 christiansen rapids ave.\nsouth dolly, id 88529-7114",management,married,secondary,False,139,False,False,cellular,27,may,188,1,161,2,other,False,berge,frances,5,5,nan
+3434,29,"3723 anabel summit ave.\nlake elinore, ok 93800-0686",management,single,tertiary,False,21,True,False,cellular,14,may,107,4,371,3,failure,False,collier,triston,2,5,water
+3439,34,"8495kochmissionapt.108\nwestaubreeland,fm88193",admin.,married,secondary,False,5320,False,False,cellular,3,mar,114,6,467,5,other,False,price,alphonso,3,3,nan
+3446,38,"06185 homenick roads\nnew emanuel, sc 76067-3994",services,married,secondary,False,8876,False,False,cellular,2,feb,280,1,75,1,failure,False,balistreri,murphy,3,2,nan
+3462,34,"06605 m0sciski fall\nfunkshir3, ct 18568",blue-collar,married,secondary,False,360,True,False,telephone,19,nov,46,1,182,2,failure,False,haag,verona,3,11,nan
+3463,52,"020langlodge\npacochaland,wi89152-2335",admin.,married,secondary,False,199,False,False,cellular,28,jan,978,2,189,1,other,False,koss,yadira,5,1,nan
+3471,46,"00780 rico coves\nnorth constancehaven, ms 50727-4746",blue-collar,married,primary,False,1291,True,False,cellular,14,may,142,3,259,17,failure,False,kuhlman,jefferey,4,5,nan
+3481,40,"95558 schupp3 l0af\nw3st dant3, nc 26840",unemployed,married,secondary,False,0,True,False,cellular,19,nov,332,1,183,1,failure,False,shanahan,johanna,4,11,nan
+3483,40,"0192 frances mountain \nheleneberg, ky 69965",management,married,tertiary,False,7780,False,False,telephone,4,may,364,1,355,1,other,False,predovic,sister,4,5,nan
+3484,30,"5021 matt harb0rs av3.\nw3st 3m3rald, nd 34873-1533",management,married,secondary,False,-559,True,True,cellular,7,may,98,1,167,2,failure,False,effertz,logan,3,5,nan
+3487,39,"22333 dicki highway\nn3w just0nvi3w, nc 01542-8272",entrepreneur,married,unknown,False,98,True,False,telephone,15,may,59,3,367,1,other,False,satterfield,oran,3,5,nan
+3493,36,"77105 kurt corners\nfaychester, mi 83706-9553",management,single,tertiary,False,-679,True,True,cellular,7,may,172,1,93,1,failure,False,wunsch,celestine,3,5,nan
+3498,58,"80562rolfsonrow\ntremblayport,mo80587-7461",services,divorced,secondary,False,462,False,False,cellular,13,nov,495,1,93,1,success,True,effertz,gideon,5,11,nan
+3502,32,"178 ledner mews \nbrycebury, ct 72282-0348",management,divorced,tertiary,False,883,True,False,cellular,10,dec,798,1,185,5,other,True,keeling,petra,3,12,nan
+3518,39,"6125o'connellplaza\nnorthjazmyn,me21791",self-employed,married,secondary,False,31,True,False,cellular,20,nov,61,2,181,4,failure,False,mann,yadira,3,11,nan
+3519,54,"3842 margar3tt3 club apt. 957\nn0rth br0ck, wy 90617",technician,married,secondary,False,0,False,False,telephone,14,aug,159,2,106,6,success,False,gleichner,hazle,5,8,nan
+3520,32,"41131 gutmann loaf\nport hortense, va 35770",management,single,tertiary,False,347,True,False,cellular,18,may,213,1,264,6,failure,False,bechtelar,julius,3,5,nan
+3523,31,"1373 3ff3rtz str33ts apt. 580\njayd3nstad, 0r 09670",technician,married,secondary,False,0,True,True,cellular,28,jan,71,1,223,9,other,False,fadel,samir,3,1,nan
+3527,33,"4562miamountainave.\neastbrennaview,in17925",services,divorced,secondary,False,2411,True,False,cellular,23,oct,130,1,161,1,failure,True,turcotte,jeffry,3,10,nan
+3528,46,"619 tremblay tunnel st.\neast johnniefort, ky 62892",management,divorced,tertiary,False,225,True,False,cellular,14,may,201,1,345,1,other,False,zboncak,noemy,4,5,nan
+3530,50,"851 claude court \neast katelynport, ma 20809",management,married,tertiary,False,112,True,False,cellular,4,nov,70,5,85,5,other,False,farrell,lamont,5,11,nan
+3534,47,"6128 stracke meadows apt. 435\nmartinaville, az 28221-2804",admin.,single,secondary,False,1544,True,False,cellular,6,apr,104,1,312,1,failure,False,langosh,jazlyn,4,4,nan
+3543,39,"433 alli3 l0cks \nl3dn3rf0rt, pw 64079",technician,married,secondary,False,6,True,False,cellular,18,may,122,3,357,4,failure,False,schmeler,muriel,3,5,nan
+3548,39,"8443 zakary club ave.\nulicesfort, mo 51506-1827",admin.,married,secondary,False,-650,False,False,cellular,15,may,123,2,364,1,failure,False,romaguera,juston,3,5,nan
+3569,50,"75776k0n0p3lskisummit\nnik0ch3st3r,ri96055",management,married,tertiary,False,78,True,False,cellular,14,jan,218,3,161,9,other,False,hodkiewicz,randal,5,1,nan
+3574,34,"951 claire run \njaymeport, sd 77853-0420",housemaid,married,tertiary,False,0,False,False,cellular,26,may,141,1,188,1,failure,False,kshlerin,alessia,3,5,nan
+3576,31,"7649 gottlieb hollow \nkatarinafort, ny 39143-9624",management,married,tertiary,False,1384,True,False,cellular,30,jan,203,2,2,3,other,False,hartmann,asha,3,1,nan
+3584,46,"32331 hamill hollow\neast alainachester, ny 44470-1345",blue-collar,married,secondary,False,-1400,True,False,telephone,6,may,309,3,355,4,failure,False,kutch,jacey,4,5,nan
+3586,43,"603 weimann roads suite 840\nnew maxieside, pw 31715-7851",blue-collar,married,secondary,False,2160,False,False,cellular,8,sep,261,1,98,1,success,True,bosco,walter,4,9,nan
+3588,27,"55602 daniel stravenue\nport susanna, nh 47681",technician,single,secondary,False,842,False,False,cellular,30,jul,273,1,91,1,other,False,ruecker,vance,2,7,nan
+3589,38,"380 kayden hollow st.\neast arnaldoside, or 53036",management,married,unknown,False,3576,False,False,cellular,25,nov,349,2,183,1,success,True,emmerich,kameron,3,11,nan
+3593,42,"25424 parisian all3y\nhayd3nt0wn, mi 91105-9279",blue-collar,single,primary,False,1628,True,False,cellular,5,feb,119,1,195,8,success,False,hansen,kaitlyn,4,2,nan
+3607,70,"141 emelie hills st.\njarodberg, ak 83552",retired,married,secondary,False,1164,False,False,telephone,14,may,338,3,185,2,failure,False,kshlerin,celestine,7,5,relief
+3612,50,"232 amely views \nnorth adrien, sd 32643",management,divorced,tertiary,False,356,False,False,cellular,8,may,198,2,358,5,other,False,ortiz,foster,5,5,nan
+3624,50,"570predovicmountain\nlakeeleazar,mh18357-1988",self-employed,married,tertiary,False,202,True,False,cellular,15,apr,107,1,148,4,failure,False,schneider,carlie,5,4,water
+3626,34,"1490 nelle curve apt. 802\nlake hattie, ne 66457-3048",technician,married,secondary,False,114,True,True,cellular,4,jun,153,1,309,3,other,False,terry,robb,3,6,water
+3633,36,"34140 malachi harbors\nsouth violette, in 82081",technician,married,tertiary,False,629,True,True,cellular,29,dec,109,1,246,1,failure,False,haag,misael,3,12,nan
+3641,27,"209taureaninletst.\neastlandenstad,ok29527-0216",student,single,secondary,False,268,True,False,cellular,13,may,528,1,358,2,failure,False,jacobi,raymundo,2,5,nan
+3644,58,"948 flossie inlet st.\nnorth vicky, ne 85095-6690",admin.,single,secondary,False,2223,False,False,cellular,4,dec,1139,2,114,1,success,False,rice,jailyn,5,12,nan
+3652,29,"210 isabel garden \njonesland, oh 75302",admin.,single,secondary,False,1070,True,False,unknown,19,may,30,1,357,1,other,True,weber,jovanny,2,5,nan
+3654,30,"237 victoria cliff st.\neast abbey, md 25234-5628",management,single,tertiary,False,2,False,False,cellular,16,jun,102,1,85,1,failure,False,hauck,mallie,3,6,nan
+3656,33,"15400 devin summit\nnorth vernaland, tn 90885",student,single,unknown,False,5969,False,False,cellular,4,sep,156,2,127,8,failure,False,wilderman,tomas,3,9,nan
+3658,26,"7600 kund3 sh0al av3.\nlak3 dasialand, sd 99277",services,single,secondary,False,1347,False,False,telephone,18,jun,280,6,92,5,other,True,hoeger,brandy,2,6,nan
+3665,26,"039 adam spurs st.\nn3w ka3la, wv 54848",services,single,secondary,False,5533,True,False,cellular,7,may,582,2,283,4,failure,False,aufderhar,christopher,2,5,nan
+3669,42,"328 gleichner cliffs st.\nhesselview, nj 59636",admin.,single,secondary,False,30,True,False,cellular,4,feb,98,1,266,3,failure,False,abbott,twila,4,2,nan
+3674,39,"37393 kshlerin roads\nwest michellefort, tn 98188-1271",management,single,tertiary,False,0,True,False,cellular,12,may,561,4,369,3,failure,False,larkin,amira,3,5,nan
+3682,43,"4929 di3trich harb0r \nparisianfurt, nd 15524-3629",management,divorced,tertiary,False,497,False,False,cellular,13,may,66,1,363,22,failure,False,nolan,lina,4,5,nan
+3684,30,"78705 evangeline ports\nadalinefurt, co 88631-7627",admin.,single,tertiary,False,305,False,False,cellular,30,apr,633,1,85,2,success,True,gorczany,blair,3,4,nan
+3689,29,"772 ward mountain st.\nwest geoffreyville, aa 79542-4682",technician,married,tertiary,False,858,True,False,cellular,12,jun,234,7,330,1,failure,False,marvin,luciano,2,6,nan
+3690,80,"506quincyspursst.\nportjessyland,ky69579",housemaid,married,primary,False,0,False,False,cellular,23,feb,639,1,189,1,failure,True,erdman,ward,8,2,nan
+3695,31,"7255 titus stravenue apt. 752\nnorth sigridville, ae 15049",management,married,tertiary,False,1331,False,False,cellular,30,apr,297,1,86,3,success,True,casper,verlie,3,4,nan
+3697,57,"1521cruzkeyave.\nisabellafurt,tx39850",admin.,divorced,primary,False,179,True,False,cellular,15,may,67,1,368,2,failure,False,larkin,clifford,5,5,nan
+3701,51,"305mccluregrovesuite282\nalvenatown,wa64403-3122",management,married,tertiary,False,5108,True,False,cellular,8,oct,272,1,102,8,other,False,raynor,frederick,5,10,nan
+3703,42,"92346 fernando pass\nsunnybury, oh 82031",blue-collar,married,primary,False,-97,True,False,cellular,3,feb,216,4,271,5,failure,False,herzog,jessyca,4,2,nan
+3705,43,"923 o'kon meadows st.\nbrendenbury, ny 63759",management,married,tertiary,False,489,True,False,cellular,8,may,130,1,172,2,other,False,dach,elisa,4,5,nan
+3710,34,"5387alanistrackave.\nporttrudie,tn22278-5889",self-employed,married,tertiary,False,263,False,False,cellular,4,may,203,1,78,8,other,False,walter,meghan,3,5,nan
+3714,35,"540m0hrflatsst.\nb0gisicht0wn,az88161-5946",management,divorced,tertiary,False,434,True,False,cellular,11,may,277,1,271,2,success,False,hodkiewicz,elvis,3,5,nan
+3724,37,"77758 mills f0rt\nb0r3rshir3, in 85288-4503",housemaid,divorced,secondary,False,1040,True,False,cellular,13,may,199,1,173,2,failure,False,gleichner,austyn,3,5,nan
+3731,52,"952hilllw3llsuit3215\nw3stgr3tastad,ga93299",retired,married,secondary,False,424,False,False,cellular,19,nov,143,1,154,3,failure,False,koch,sallie,5,11,relief
+3743,42,"200boylerowst.\neastjon,wy87194",admin.,single,secondary,False,-247,True,True,telephone,21,oct,519,1,166,1,other,True,grant,dan,4,10,nan
+3746,50,"5402 schaefer islands \nconroyton, nc 12754",management,married,tertiary,False,-470,True,False,cellular,19,nov,130,2,160,1,failure,False,ritchie,brielle,5,11,nan
+3750,79,"396 j3nkins t3rrac3 apt. 762\np0rt kristyt0n, 0r 20706-1311",retired,divorced,unknown,False,2628,False,False,telephone,8,jul,220,7,450,2,failure,False,weber,kara,7,7,nan
+3751,39,"141 strosin mission st.\nwest taurean, dc 48880",technician,married,secondary,False,116,False,False,cellular,24,aug,79,2,94,2,success,False,hoppe,lenna,3,8,nan
+3755,33,"976 petra mall st.\ngrimesborough, ok 69465",blue-collar,single,secondary,False,3975,True,True,cellular,17,apr,515,1,150,1,other,False,rosenbaum,rico,3,4,nan
+3756,42,"56667walshall3y\npark3rch3st3r,c089758",services,married,secondary,False,96,True,False,cellular,5,may,238,3,340,2,failure,False,lueilwitz,garrick,4,5,nan
+3765,55,"601yoshikoflatst.\nwestrusty,ut20731",technician,divorced,secondary,False,3450,False,False,cellular,10,feb,169,1,183,1,failure,True,sporer,sherwood,5,2,nan
+3770,46,"0652 koch hill ave.\nnew maiyaland, vi 68694",management,single,tertiary,False,334,True,False,telephone,4,may,36,6,90,2,other,False,bailey,claud,4,5,relief
+3775,41,"7828 augusta skyway ave.\nlake marc, mh 51356",management,divorced,tertiary,False,3355,False,False,cellular,14,oct,181,2,500,1,failure,False,abernathy,callie,4,10,water
+3794,43,"0791 roberts glen suite 191\nsouth caleb, ia 38938",unemployed,single,unknown,False,3274,True,False,cellular,22,may,680,1,95,1,failure,False,beahan,angelo,4,5,nan
+3797,30,"733 tiffany l0cks \nn3w immanu3lland, ky 63695-1884",technician,single,tertiary,False,2325,False,False,cellular,5,apr,270,3,241,4,other,False,nicolas,pablo,3,4,nan
+3799,31,"6115 edgardo loop ave.\nkovacekchester, ia 10981-5855",blue-collar,married,secondary,False,1664,True,False,cellular,20,apr,158,1,182,1,success,False,kunde,fred,3,4,nan
+3815,31,"6184 sawayn spur ave.\nport royal, wy 38080-5643",management,married,tertiary,False,623,True,False,cellular,13,may,96,2,349,5,failure,False,gleason,janice,3,5,nan
+3816,32,"9508 gina trail suit3 479\np0rt russ3l, ut 18658-7944",admin.,married,secondary,False,3540,True,False,cellular,18,may,213,1,178,1,failure,False,howe,gennaro,3,5,nan
+3818,53,"378naomiunionsst.\ngleichnertown,nm57392-4789",services,divorced,secondary,False,765,True,False,cellular,14,may,959,3,174,7,other,True,carter,darryl,5,5,nan
+3828,31,"823lub0witz3xt3nsi0nsuit3524\ns0uthanika,ma96171-4149",blue-collar,married,unknown,False,-120,True,False,cellular,3,feb,100,3,201,2,failure,False,schimmel,rodger,3,2,nan
+3831,34,"5845 jalon glens apt. 501\nschinnerburgh, ms 74397",management,single,tertiary,False,8038,True,False,cellular,20,apr,29,3,152,1,failure,False,emard,maurine,3,4,nan
+3834,36,"865 j3r0m3 sh0r3 \nn3w ad3llstad, fl 29935-2975",self-employed,married,secondary,False,189,True,False,cellular,19,nov,136,1,120,1,failure,False,vandervort,deontae,3,11,nan
+3835,29,"203 schmitt throughway apt. 894\nmarkusfort, pa 94965-6958",housemaid,single,tertiary,False,19,False,False,cellular,5,feb,110,2,64,2,success,True,heidenreich,oswaldo,2,2,nan
+3843,50,"1774kiehnplainave.\nsouthstanleyport,me37055-4515",unknown,married,primary,False,341,True,True,cellular,20,apr,670,4,340,2,success,True,bins,jaylon,5,4,flat
+3844,39,"5498ki3hnmillsav3.\nrathland,sc51583-8903",admin.,married,secondary,False,607,True,False,cellular,12,may,454,2,364,3,failure,True,gutkowski,cordell,3,5,nan
+3848,26,"53443runolfssonview\nsouthluigiville,al38214",management,single,tertiary,False,1274,True,False,cellular,1,jun,190,1,84,1,failure,False,mueller,cristal,2,6,nan
+3850,51,"644 wilderman mountain st.\nhillsside, mo 30911-0495",blue-collar,married,primary,False,377,True,False,telephone,3,feb,143,4,272,1,failure,False,morissette,lon,5,2,relief
+3851,26,"909 goyette port st.\nlake allantown, nj 89798-7161",admin.,single,secondary,False,802,False,False,cellular,30,jan,77,1,2,2,other,False,terry,jerel,2,1,water
+3869,36,"4436anastasialakeave.\nnewnayeli,fm63553-7569",management,divorced,tertiary,False,649,False,False,cellular,16,jul,237,2,91,1,failure,False,roob,shaun,3,7,water
+3874,26,"470 paige lights st.\nauerborough, hi 63344",student,single,tertiary,False,294,False,False,cellular,5,mar,87,1,91,2,success,True,altenwerth,reyna,2,3,nan
+3883,57,"99462 miller mission\neastonview, ne 73786",admin.,married,secondary,False,169,False,False,cellular,14,aug,180,1,106,2,failure,False,sipes,ursula,5,8,nan
+3884,36,"938odacovesuite831\nhyattview,dc26022-7653",self-employed,married,tertiary,False,506,False,False,cellular,25,aug,47,1,120,1,failure,False,franecki,sophia,3,8,nan
+3889,47,"2214k3aganh3ightssuit3965\nn3wmarinaburgh,m083213-1874",management,single,tertiary,False,4402,False,False,telephone,10,dec,805,1,190,1,other,True,abernathy,makenzie,4,12,nan
+3890,31,"8950magaligr33nsapt.156\nfr3dashir3,ap54657-6201",services,divorced,primary,False,459,True,False,cellular,7,may,623,1,293,1,success,True,barrows,peter,3,5,nan
+3896,36,"39935 z3mlak squar3s\nlak3 g30vannysid3, wi 04056",blue-collar,married,primary,False,1177,False,False,cellular,15,apr,330,1,311,4,success,True,reichert,francisco,3,4,nan
+3922,48,"1688 mante station ave.\nstoneton, ks 43519-0784",blue-collar,married,secondary,False,1143,True,False,cellular,17,apr,264,1,317,1,failure,False,wehner,lilla,4,4,nan
+3923,57,"9598 macey estate ave.\nsmithamview, wy 54003-0519",retired,married,primary,False,-464,True,False,cellular,4,feb,75,1,190,6,failure,False,schimmel,caitlyn,5,2,nan
+3929,54,"181 lehner valley suite 398\nbednarstad, ak 00087-9422",housemaid,married,unknown,False,0,False,False,cellular,14,apr,94,5,145,3,other,False,schuster,horace,5,4,nan
+3930,51,"8461 weber ville ave.\njusticefort, id 90572",retired,divorced,secondary,False,1679,False,False,cellular,12,aug,417,1,365,9,other,True,osinski,arnaldo,5,8,nan
+3931,47,"92252pourossummit\nsoutheastonshire,va51604-9441",admin.,married,secondary,False,3676,False,False,cellular,18,oct,567,1,95,3,success,True,beier,israel,4,10,nan
+3932,25,"18256l3daradial\np0rtn3wt0nt0wn,ms75112-5917",management,married,tertiary,False,-242,True,True,cellular,18,may,600,4,332,4,other,True,kihn,sincere,2,5,nan
+3943,45,"792 richmond meadow st.\nlake tatehaven, mt 09008-2976",services,single,secondary,False,1757,True,False,cellular,20,apr,1010,3,326,1,other,False,bergstrom,keaton,4,4,water
+3951,50,"022 ivy ridge apt. 312\nbrittanyborough, ar 68790",technician,single,secondary,False,246,True,False,cellular,17,nov,270,1,123,2,failure,False,welch,kianna,5,11,nan
+3952,44,"96375cameronmountains\nwestasachester,la25232",blue-collar,married,primary,False,887,True,False,cellular,12,may,165,2,363,1,failure,False,wilderman,jairo,4,5,nan
+3972,50,"0097 bernhard causeway \nrustyfurt, pa 92486-7484",self-employed,married,secondary,False,2061,True,True,cellular,29,jan,197,2,244,3,failure,False,ullrich,marjory,5,1,nan
+3976,48,"440 wiza strav3nu3 st.\nw3st arnald0, ut 52162-9739",management,married,tertiary,True,-13,True,False,cellular,15,may,20,6,291,2,other,False,goyette,jammie,4,5,nan
+3978,66,"70019trantowisle\nnoeliamouth,ne94655-2833",retired,married,tertiary,False,1948,False,False,cellular,28,jan,216,1,91,4,success,True,connelly,hollie,6,1,nan
+3981,43,"48192 kihn meadow\nlake hannah, id 41999",blue-collar,single,secondary,False,24,False,False,cellular,12,may,68,1,363,1,failure,False,schimmel,tamia,4,5,water
+3985,43,"2560 sidney villages ave.\nsouth bruceshire, nh 98398",blue-collar,married,primary,False,188,True,False,cellular,12,may,58,3,347,5,failure,False,kub,emma,4,5,nan
+3998,44,"766 3ichmann m3ad0ws suit3 377\nr3n33m0uth, nc 18099-4345",management,married,tertiary,False,724,True,False,cellular,17,nov,157,2,172,1,failure,False,morar,skyla,4,11,nan
+4000,53,"915 prosacco cape st.\nsouth katrine, ga 52198",admin.,divorced,secondary,False,26,True,False,cellular,7,may,56,1,359,1,failure,False,considine,emerald,5,5,nan
+4005,55,"405gleasoncoveapt.882\nnewevelineland,nm50082",blue-collar,married,primary,False,1086,True,False,cellular,6,may,146,1,272,2,failure,False,kessler,addie,5,5,nan
+4009,38,"047 lubowitz rue st.\nnolanfort, ca 02017",housemaid,divorced,secondary,False,70,False,False,cellular,27,oct,255,3,148,1,success,True,leannon,margarett,3,10,nan
+4019,43,"582 gust ridge \nnorth allan, nd 44733",technician,married,secondary,False,0,True,True,cellular,4,feb,539,8,204,5,failure,False,runolfsdottir,anderson,4,2,nan
+4030,38,"0206 d0nav0n r0ad suit3 309\ndari0nm0uth, ct 86275",blue-collar,divorced,secondary,False,0,True,False,cellular,11,may,580,1,173,1,failure,False,wilkinson,zachariah,3,5,nan
+4036,40,"055 matteo bypass \nwiegandview, ap 56757",technician,married,secondary,False,4441,True,False,cellular,20,nov,153,2,183,2,failure,False,howe,enos,4,11,nan
+4038,71,"98754 hickle dale\naustenmouth, vi 00468",unknown,married,tertiary,False,353,False,False,cellular,27,jan,208,1,93,2,failure,False,deckow,remington,7,1,nan
+4042,30,"324camryngreens\nmonahanstad,ar69856",technician,single,tertiary,False,1185,True,False,cellular,30,apr,284,1,339,1,failure,False,fritsch,scot,3,4,nan
+4044,32,"92465 collins landing\nlebsacktown, de 37311",blue-collar,married,secondary,False,2,True,False,cellular,15,may,16,9,309,1,failure,False,ebert,catherine,3,5,nan
+4049,40,"774juanitaranchsuit3339\np0rthans,ky01421-8364",services,married,secondary,False,9374,True,False,cellular,21,nov,7,8,185,1,failure,False,rempel,erling,4,11,nan
+4053,31,"9838 f3il parks suit3 227\nmarksm0uth, mt 13361",admin.,divorced,secondary,False,360,False,False,cellular,15,may,332,1,297,2,other,False,kunde,milo,3,5,nan
+4054,28,"0892 c0rwin p0rts \n3ast linda, md 22169-4897",technician,single,secondary,False,1532,False,False,cellular,22,may,253,1,107,5,failure,False,kuvalis,evans,2,5,nan
+4055,29,"612 st3wart l0af suit3 114\nlak3 lav3rn3, 0h 43549-8930",management,single,tertiary,False,1673,False,False,cellular,16,aug,200,2,159,3,other,False,harvey,gilbert,2,8,nan
+4065,70,"9572 addie fork apt. 919\nport otis, co 20866-7731",retired,married,secondary,False,616,False,False,cellular,27,apr,149,2,182,1,failure,False,batz,stephon,7,4,nan
+4066,36,"52770 katelynn corners\nkristahaven, az 20491",services,married,secondary,False,3064,True,False,telephone,26,aug,240,3,107,4,failure,False,tremblay,marley,3,8,nan
+4070,31,"3735 chelsea harbors apt. 253\naldenfurt, ak 92475-7503",services,single,secondary,False,481,True,False,cellular,20,nov,106,2,183,2,failure,False,schmidt,paxton,3,11,nan
+4071,28,"326013st3ll33xpr3ssway\nb0tsf0rdburgh,nd85642",admin.,married,secondary,False,12,True,False,cellular,30,jan,73,3,256,3,other,False,bogan,pinkie,2,1,nan
+4073,51,"0856 w3st summit \nz3chariahb0r0ugh, wv 11103",management,married,tertiary,False,176,True,True,unknown,1,jun,8,1,687,2,failure,False,watsica,lesly,5,6,nan
+4076,53,"360dakotagatewayapt.036\ngislasonview,ri78080-8646",blue-collar,married,primary,False,53,True,False,cellular,7,apr,208,1,140,1,failure,False,hand,santina,5,4,nan
+4080,40,"4720 fri3s3n cr3sc3nt \ns0uth barth0l0m3, wv 28267",blue-collar,married,primary,False,2805,True,False,cellular,14,may,173,6,353,23,failure,False,rogahn,jermain,4,5,nan
+4083,51,"2513 melvina shores \neast tyrell, vi 98898",management,married,tertiary,False,1612,False,False,cellular,16,mar,384,1,182,5,failure,False,windler,cydney,5,3,nan
+4089,32,"51837whitestation\nnewgeohaven,dc78671",blue-collar,married,secondary,True,-53,True,False,cellular,16,apr,648,1,272,1,other,True,reinger,brandyn,3,4,nan
+4093,69,"7974 ivy 0val av3.\nn0rth b3aulah, 0k 67989",retired,single,tertiary,False,2144,False,False,cellular,29,jul,417,1,184,4,success,True,abbott,brock,6,7,nan
+4096,26,"86256 anibal view\nsouth niko, mh 43019-6402",entrepreneur,married,tertiary,False,37,True,True,cellular,6,may,207,1,363,2,failure,False,block,armand,2,5,nan
+4100,34,"26385 hintz place\nsouth hobartberg, id 99480-7835",management,married,tertiary,False,436,True,False,cellular,17,apr,28,1,345,1,failure,False,greenfelder,oran,3,4,nan
+4106,33,"453 bednar estate st.\nlake ethylmouth, ct 25544",technician,single,secondary,False,647,True,True,cellular,4,feb,124,1,273,1,other,False,conroy,robin,3,2,water
+4107,50,"143 v3rn0n m0untains st.\n3ast lillian, 0r 58310",blue-collar,married,primary,False,2142,True,False,cellular,29,jan,309,2,224,1,other,False,funk,wallace,5,1,nan
+4126,33,"196 kulas way apt. 520\nport cyril, wv 94675-2826",services,single,secondary,False,358,True,False,cellular,7,may,302,1,356,3,failure,False,gutmann,hattie,3,5,nan
+4130,32,"989ashtonsprings\namyamouth,vi15140",management,single,tertiary,False,473,True,False,cellular,11,may,72,2,361,1,other,False,reichert,brad,3,5,nan
+4141,37,"4101 jalyn kn0ll av3.\ns0uth m3r3dithf0rt, mn 80925-6882",management,married,tertiary,False,0,False,False,cellular,11,mar,129,4,107,2,failure,False,kutch,drew,3,3,nan
+4150,33,"7608 hills fields suite 712\nmarlenechester, co 39517-2936",technician,married,tertiary,False,8023,False,False,cellular,25,feb,196,1,87,4,failure,False,ryan,marcel,3,2,relief
+4152,21,"7257gl3as0nbranchsuit3532\nw3stchanc3stad,mn87871",student,single,secondary,False,6844,False,False,cellular,14,aug,126,3,127,7,other,False,doyle,emelia,2,8,nan
+4159,53,"87279 edwin squares\neast alva, ky 65721",unemployed,married,secondary,False,94,False,False,cellular,10,aug,493,1,181,14,success,True,hegmann,donald,5,8,nan
+4160,57,"929kielbranchst.\nelfriedatown,oh85913",retired,married,secondary,False,1044,False,False,telephone,11,jan,585,1,192,2,success,True,ryan,grover,5,1,nan
+4169,35,"67043 medhurst courts\nreynoldsburgh, mn 00993",services,divorced,secondary,False,221,True,False,cellular,14,may,150,1,360,1,failure,False,auer,paige,3,5,nan
+4175,27,"009 champlin trail apt. 687\nalisaborough, wv 29195-3329",student,single,tertiary,False,-148,True,False,cellular,11,sep,146,3,224,1,other,False,upton,katheryn,2,9,nan
+4186,52,"1831bartellcornersave.\nhayesmouth,ms64609-1950",technician,married,tertiary,False,0,False,False,cellular,9,aug,145,3,94,4,success,False,rolfson,maud,5,8,nan
+4191,31,"97716 warr3n gl3ns\nw3st ka3lynb3rg, ky 63599",management,single,tertiary,False,1130,True,False,cellular,17,apr,224,3,74,4,failure,False,stanton,juliana,3,4,nan
+4196,48,"215noreneportsst.\nelyseton,mp15284",blue-collar,married,secondary,False,480,True,False,cellular,15,may,830,1,352,2,failure,True,mante,lilla,4,5,nan
+4201,36,"0540 considine rest suite 682\nheidenreichton, ne 22862",unemployed,married,secondary,False,-872,True,True,cellular,20,nov,153,1,183,1,failure,False,kautzer,cecil,3,11,nan
+4202,37,"5447 maximilian m3ws \nrun0lfsd0ttirland, nc 58278-0163",blue-collar,divorced,secondary,False,33,True,False,cellular,20,nov,106,2,167,1,failure,False,schiller,stanford,3,11,nan
+4206,40,"37561lefflerpike\no'connelltown,ae36393",student,married,secondary,False,260,False,False,cellular,19,nov,52,1,152,6,failure,False,tillman,clair,4,11,nan
+4207,57,"2188 schamb3rg3r p0ints \nbirdi3f0rt, nd 75216-4598",technician,married,secondary,False,589,True,False,cellular,2,feb,223,1,76,4,failure,False,hickle,henry,5,2,nan
+4213,30,"4556 dominique loaf apt. 118\nnew clifton, md 61054-6293",technician,single,secondary,False,-522,True,True,cellular,5,may,670,2,286,6,failure,True,hauck,angel,3,5,nan
+4215,37,"288 wisozk curve st.\ngoldnerbury, as 72098-2665",unemployed,married,secondary,False,1978,False,False,cellular,9,sep,404,1,182,1,success,True,dibbert,elwyn,3,9,nan
+4216,53,"132marlinmissionst.\nboyerberg,ut18397",admin.,married,secondary,False,459,False,False,cellular,14,oct,317,6,192,1,success,False,schimmel,immanuel,5,10,nan
+4224,69,"092 beulah place st.\nwest jerrell, pw 29534-0227",retired,married,unknown,False,426,False,False,telephone,9,mar,225,1,90,1,success,True,donnelly,hyman,6,3,nan
+4229,62,"9916donaldfordssuite263\neastcarriehaven,ks38288-2015",self-employed,divorced,tertiary,False,6,True,False,cellular,13,oct,216,1,183,4,success,True,cronin,verona,6,10,nan
+4232,38,"45348osbornecourt\nkraigmouth,sd55256",technician,single,secondary,False,-242,True,False,cellular,18,may,1173,3,278,6,success,True,rolfson,icie,3,5,nan
+4251,33,"3902wehnercornerave.\nmcglynnville,va87751",management,single,tertiary,False,201,True,False,cellular,19,nov,171,1,183,1,failure,False,jacobi,alysson,3,11,nan
+4261,58,"734 vincenza garden st.\nhankbury, ap 25707-8323",retired,married,secondary,False,3382,False,True,cellular,28,may,294,2,309,2,failure,False,corkery,lydia,5,5,nan
+4262,59,"5375winifredvillagessuite818\ndesmondmouth,nj86530",technician,married,secondary,False,2308,False,False,cellular,30,apr,815,1,87,1,other,True,kuvalis,paris,5,4,nan
+4272,50,"4637 lulu ville ave.\nstanberg, nj 24194",technician,married,tertiary,False,199,True,True,cellular,3,feb,116,2,253,1,failure,False,maggio,maeve,5,2,nan
+4276,35,"961 hyatt circle st.\nnorth vellaport, pr 09831-7086",admin.,married,secondary,False,147,True,True,cellular,29,jan,41,1,184,7,failure,False,rogahn,micaela,3,1,nan
+4281,52,"925 ressie harbor st.\nnorth viviennebury, ms 15602",management,married,secondary,False,335,False,False,cellular,21,oct,411,1,182,1,failure,True,west,franco,5,10,nan
+4284,54,"0114hyattextensionsave.\njacobiton,or87711-2219",self-employed,married,secondary,False,641,True,False,cellular,17,apr,472,1,148,2,failure,False,frami,jamar,5,4,nan
+4290,40,"129 gislas0n 3stat3s st.\nk0vac3km0uth, nh 57399-6143",services,married,tertiary,False,35,False,False,cellular,3,jul,318,4,317,3,failure,False,christiansen,wilson,4,7,nan
+4309,40,"548 wis0zk cr0ssing st.\nralpht0n, nv 40320-5070",services,single,secondary,False,1547,True,False,cellular,12,may,88,2,173,1,success,False,kulas,julien,4,5,nan
+4312,30,"95359 abigale shoal\nnew susanna, mp 98190-6789",services,single,secondary,False,20,True,False,cellular,20,apr,404,6,340,1,failure,False,hettinger,tatum,3,4,nan
+4314,31,"33957 berge forges\nschadenbury, wv 95960",technician,single,secondary,False,1626,False,False,cellular,7,may,356,2,286,3,failure,False,schulist,lucius,3,5,nan
+4319,70,"8756 0'r3illy str33t suit3 733\nak33mland, nv 23833-7612",retired,divorced,secondary,False,6850,False,False,telephone,5,mar,252,3,183,1,failure,False,wisozk,ara,7,3,nan
+4323,83,"6649kutchviews\nkochport,in36556-0996",retired,divorced,primary,False,0,False,False,telephone,31,may,664,1,77,3,success,False,zieme,celia,8,5,nan
+4324,50,"569lavernaforksapt.891\ncliffordchester,sd91171-1726",management,divorced,tertiary,False,100,True,True,cellular,13,may,157,1,299,3,failure,False,lowe,irma,5,5,nan
+4332,27,"005shanahanbr00ksst.\nw3stjack3lin3furt,mp20469",student,single,secondary,False,8366,False,False,cellular,7,may,458,2,349,1,other,False,steuber,fermin,2,5,nan
+4337,73,"0400 rocky vista ave.\nmonserratebury, tn 37001-2765",retired,married,unknown,False,519,False,False,telephone,16,oct,434,1,57,1,failure,True,murazik,derrick,7,10,nan
+4340,47,"4531 walker centers ave.\nsouth macmouth, tn 42098-9041",blue-collar,married,secondary,False,2548,True,False,cellular,11,may,577,1,368,1,other,False,hand,patsy,4,5,nan
+4343,51,"7139 fritsch walk av3.\nniam0uth, ri 87825",blue-collar,married,primary,False,40,True,False,cellular,13,may,79,1,370,1,failure,False,murphy,dudley,5,5,nan
+4347,32,"877 jarred stravenue st.\nelianmouth, de 55524-0593",admin.,married,secondary,False,0,True,True,cellular,17,nov,159,2,195,2,failure,False,abbott,paula,3,11,nan
+4362,40,"082 kirlin meadow apt. 506\nromagueraberg, fl 75060",technician,married,secondary,False,697,False,False,cellular,24,jun,220,2,219,2,other,False,kunze,serenity,4,6,nan
+4363,38,"79700vict0riavillag3s\nw3stfid3l,nj86594-2703",blue-collar,single,secondary,False,13156,True,False,cellular,17,apr,291,4,331,1,failure,False,wilkinson,leo,3,4,nan
+4368,54,"2252 skiles turnpike ave.\nharberburgh, pr 04660",services,divorced,secondary,False,1012,True,False,cellular,12,may,33,3,175,2,other,False,ziemann,natalia,5,5,nan
+4372,30,"4494 meaghan club ave.\nsouth elmiraside, co 82550",technician,single,secondary,False,4787,True,False,cellular,18,nov,266,1,167,2,failure,False,davis,orion,3,11,nan
+4387,31,"95884 gulgowski lock\nbuddymouth, pr 69937",blue-collar,married,secondary,False,3653,True,True,cellular,21,nov,252,1,168,4,failure,False,koss,eleonore,3,11,nan
+4396,41,"833 thomas estate st.\nsouth lukas, tx 05876-1208",retired,single,primary,False,0,False,False,cellular,8,may,239,1,368,2,failure,False,reinger,forrest,4,5,nan
+4397,35,"00913 alexie drive\nyasminmouth, wa 81886-2915",blue-collar,married,secondary,False,305,True,False,cellular,18,may,7,7,367,25,failure,False,kuvalis,arden,3,5,nan
+4413,65,"005chesleylanest.\njewessshire,de21734",retired,married,primary,False,493,False,False,cellular,16,oct,622,1,182,1,failure,False,runolfsdottir,dandre,6,10,nan
+4420,45,"5942 nikolas square suite 048\neast meda, ne 04670-0789",technician,married,secondary,False,999,True,False,cellular,20,nov,215,6,188,2,failure,False,bernhard,oleta,4,11,nan
+4423,45,"60913pfann3rstillturnpik3\nlak3shayn3,nj62800-5967",management,single,tertiary,False,2048,True,False,cellular,18,oct,310,1,804,1,failure,True,padberg,stephany,4,10,nan
+4428,48,"842 little islands st.\nhahnmouth, md 51232-9219",blue-collar,married,unknown,False,439,True,False,cellular,2,feb,212,1,249,2,other,False,lang,einar,4,2,nan
+4433,40,"471 bruen unions st.\nnew eve, ne 84678-9917",management,married,tertiary,False,-17,True,True,cellular,11,may,474,1,256,1,success,True,graham,bonnie,4,5,nan
+4434,35,"87839 ankunding burgs\nenricofurt, nv 69064-0122",technician,single,secondary,False,175,True,False,cellular,29,jan,219,1,246,1,failure,False,bradtke,brenda,3,1,nan
+4435,31,"5201drak3strav3nu3\n3astagustinafurt,nd49750",technician,single,secondary,False,4888,True,False,telephone,5,may,475,4,166,2,failure,False,monahan,elbert,3,5,nan
+4447,49,"046 farrell crossing \nanabeltown, ar 86544",blue-collar,single,primary,False,2146,True,False,cellular,7,may,1516,2,353,2,other,True,abbott,stacey,4,5,nan
+4453,35,"3237 ki3ran gr0v3 \nn3w al3xi3bury, pr 42404",blue-collar,married,secondary,False,5304,True,False,cellular,20,nov,340,1,183,2,failure,False,steuber,ernest,3,11,nan
+4456,37,"2210 rosalind road ave.\nricardoton, wv 78461",management,married,primary,False,3953,True,False,cellular,6,apr,610,2,138,1,failure,False,heidenreich,americo,3,4,nan
+4458,29,"971 dax bridge st.\neast todmouth, tn 59329",management,single,tertiary,False,572,False,False,cellular,16,dec,314,1,195,1,success,True,kautzer,horace,2,12,nan
+4459,31,"610myrtlestravenueapt.951\nnorthcaterinamouth,nc41867",admin.,single,secondary,False,223,True,False,cellular,17,apr,508,1,315,11,success,False,grady,elwyn,3,4,nan
+4463,33,"3765 douglas trail suite 053\neast buddy, ga 04374-7948",technician,single,secondary,False,920,True,False,cellular,21,nov,58,1,122,4,failure,False,bruen,kaleigh,3,11,nan
+4465,38,"64799 h0lly strav3nu3\nlak3 m3l0dy, ca 87469",management,single,tertiary,False,623,False,False,cellular,28,jun,297,4,144,4,other,True,bosco,elroy,3,6,nan
+4473,33,"07060kl0ck0plain\np0rtb3llahav3n,n306589",technician,married,secondary,False,4790,True,False,cellular,20,apr,137,1,272,2,failure,False,d'amore,rolando,3,4,flat
+4485,53,"375 dawn str33ts apt. 553\nhirth3vi3w, va 10270",blue-collar,married,primary,False,238,True,False,cellular,11,may,238,2,361,5,failure,False,pouros,agustina,5,5,nan
+4488,31,"695 jamison walks \nleannburgh, ma 30120-8568",unemployed,single,secondary,False,315,False,False,cellular,30,jan,130,1,2,1,other,False,fadel,jake,3,1,nan
+4489,45,"6693judebrooksapt.959\neasterna,mh06599-6488",management,married,tertiary,False,6945,False,False,cellular,5,aug,131,5,356,3,failure,False,buckridge,zena,4,8,nan
+4492,32,"7491kilbackmeadowapt.792\npagacmouth,as11081-6594",technician,single,secondary,False,309,True,True,cellular,16,apr,346,1,234,3,failure,False,o'connell,erna,3,4,nan
+4504,42,"7081 leffler wall ave.\nkemmerside, dc 00182",blue-collar,single,secondary,False,1080,True,True,cellular,13,may,951,3,370,4,failure,True,beer,johnson,4,5,nan
+4514,38,"25096 william fi3ld\nmccull0ughm0uth, 0r 33380-0921",blue-collar,married,secondary,False,1205,True,False,cellular,20,apr,45,4,153,1,failure,False,wintheiser,maudie,3,4,nan
+4519,28,"9234 borer meadow ave.\nport lunaborough, nj 36987",blue-collar,married,secondary,False,1137,False,False,cellular,6,feb,129,4,211,3,other,False,sipes,zachariah,2,2,nan
+4520,44,"2630jenkinsspringsuite970\nwestletha,ar93555",entrepreneur,single,tertiary,False,1136,True,True,cellular,3,apr,345,2,249,7,other,False,deckow,julio,4,4,nan
